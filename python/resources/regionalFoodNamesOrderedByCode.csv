@@ -1,0 +1,530 @@
+code,names
+G020,"Aa’l budu’a aa’L (Kash.)|Alaichi (N., O.)|Alechi (G.)|Cardamom, green (Common)|Ela (S.)|Elach (B.)|Elaichi (Kh.,M.,U.)|Elaishi (Kh.)|Elakkai (Mal.,Tam.,Tel.)|Elaychi (H.)|Elettaria cardamomum (Sci.)|Shoti elaychi (P.)|Veldoda (Mar.)|Yelakki (Kan.)"
+G021,"Aa’l budu’a aa’L (Kash.)|Alaichi (N., O.)|Baddi elaychi (P.)|Badi elaychi (H.)|Boro elach (B.)|Cardamom, black (Common)|Ela (S.)|Elaichi (Kh.,M.,U.)|Elakkai (Mal.,Tam.,Tel.)|Elathari (Mal.)|Elettaria cardamomum (Sci.)|Moti alechi (G.)|Veldoda (Mar.)|Yelakki (Kan.)"
+B003,"Aadad ni daad (G.)|Birri dali (O.)|Biulir dal (B.)|Black gram, dal (Common)|Kaha (Kash.)|Maa ki daal (P.)|Maas ko dal (N.)|Maassa (S.)|Mash ki dal (U.)|Matir dail phola (A.)|Minapapappu (Tel.)|Phaseolus mungo (Sci.)|SagolHawai Tangkhai (M.)|Uddachi dal (Mar.)|Uddhina bele (Kan.)|Ulutham paruppu (Tam.)|Urd dal (H.)|Uzhunnu parippu (Mal.)"
+B021,"Aaddhakii (S.)|Arhar dal (B., H., Kash., P.)|Cajanus cajan (Sci.)|Dai shana (Kh.)|Kandi pappu (Tel.)|Mairongbi (M.)|Rahar ko dal (N.)|Red gram, dal (Common)|Rohor dail (A.)|Thugare bele (Kan.)|Turdal (Mar.)|Tuvar ki dal (U.)|Tuvaramparuppu (Tam.)|Tuvaru parippu (Mal.)|Tuver ni daad (G.)"
+E054,"Aaddu (G.)|Aeir (Kash.)|Alapagoda (Tel.)|Aloobhukhara (P.)|Alubokhara (B.,G,H)|Onagida draakshi (Kan.)|Plum (Common)|Prunus sp (Sci.)|Soh plum dorris
+ Norris (Kh.)"""
+G014,"Aadrak (S.)|Ada (B., O.)|Ada kesa (A.)|Adrak (H.)|Adrak (P., U.)|Adu (G.)|Aduwa (N.)|Ale (Mar.)|Allam (Tel.)|Ginger fresh (Common)|Shunti (Kan.)|Sing (M.)|Sying bah (Kh.)|Zinziber officinale (Sci.)"
+I002,"Aakhu Dorua (O.)|Akher rosh (B.)|Cheruku rasam (Tel.)|Chuhing (M.)|Ganne rus (Kash.)|Ganne -da-ras (P.)|Ganne -ka-ras (H.)|Ganne -ke-ras (U.)|KabbinaHalu (Kan.)|Karumbin neeru (Mal.)|Karumbu charu (Tam.)|Kunhiyar (A.)|Saccharum officinarum (Sci.)|Sherdino ras (G.)|Soh Pai (Kh.)|Sugar cane, juice (Common)|Usacha rasa (Mar.)"
+D001,"Aal (Kash.)|Ash gourd (Common)|Benincasa hispida(Sci.)|Bhuru kodu (G.)|Boodida gummadi (Tel.)|Budagumbala (Kan.)|Chalkumra (B.)|Kohala (Mar.)|Kubhindo (N.)|Kumbalanga (Mal.)|Kumura (A.)|Panikakharu (O.)|Pathaw iiwbih (Kh.)|Peta (U.)|Petha (H.,P.)|Torbot (M.)|Venpoosani (Tam.)"
+C030,"Aal kaniji (Kash.)|Bhopla chipan (Mar.)|Cucurbit maxima (Sci.)|Gummadi akulu (Tel.)|Kaddu ka patta (U.)|Khakaru saga (O.)|Kolam na pan (G.)|Kumbale soppu (Kan.)|Kumhra sag (H.)|Kumra shak (B.)|Mairen mana (M.)|Manthan elakai (Mal.)|Parangi ilai (Tam.)|Petha de pate (P.)|Pumpkin leaves, tender (Common)|Rongalao paat (A.)|Sla pathaw (Kh.)"
+F018,"Aalu (S.)|Chena (Mal.)|Dioscorea strydomiana (Sci.)|Durdakandagadda (Tel.)|Gherkochoo (B.)|Goradu (Mar.)|Karunai kizhangu (Tam.)|Kath aloo (A.)|Khamba alu (O.)|Pidaloo (N.)|Ratadu (G.)|Shriew jrong (Kh.)|Sooran (H.)|Suvarna gadda (Kan.)|Yam, ordinary (Common)"
+F006,"Aalukah (S.)|Alu (H., Kon., N., O., P., U.)|Alugadda (Kan.)|Bangala dumpa (Tel.)|Batata (Mar.)|Bateka (G.)|Oalu (Kash.)|Potato, brown skin, big (Common)|Simolu aloo (A.)|Solanum tuberosum (Sci.)|U phan (Kh.)|Urula kizhangu (Mal.)|Urulaikizhangu (Tam.)"
+F007,"Aalukah (S.)|Aloo (A., M.)|Alu (H., Kon., N., O., P., U.)|Alugadda (Kan.)|Bangala dumpa (Tel.)|Batata (Mar.)|Bateka (G.)|Oalu (Kash.)|Phan rit (Kh.)|Potato, brown skin, small (Common)|Simolu aloo (A.)|Solanum tuberosum (Sci.)|Urula kizhangu (Mal.)|Urulaikizhangu (Tam.)"
+F008,"Aalukah (S.)|Aloo (A., M.)|Alu (H., Kon., N., O., P., U.)|Alugadda (Kan.)|Bangala dumpa (Tel.)|Batata (Mar.)|Bateka (G.)|Oalu (Kash.)|Phan saw (Kh.)|Potato, red skin (Common)|Solanum tuberosum (Sci.)|Urula kizhangu (Mal.)|Urulaikizhangu (Tam.)"
+E036,"Aam (A.)|Aam (P.)|Aam/paka (B.)|Aam/paka (H.)|Aamb (Kash.)|Aamra (S.)|Amba/pachila (O.)|Amba/piklela (Mar.)|Ampa (N.)|Keri (G.)|Mam pazham (Mal.)|Mamidi pandu (Tel.)|Mampazham (Tam.)|Mangifera indica (Sci.)|Mango, ripe, banganapalli (Common)|Pakka aam (U.)|Soh pieng (Kh.)|VinaHannu (Kan.)"
+E037,"Aam (A.)|Aam (P.)|Aam/paka (B.)|Aam/paka (H.)|Aamb (Kash.)|Aamra (S.)|Amba/pachila (O.)|Amba/piklela (Mar.)|Ampa (N.)|Mam pazham (Mal.)|Mamidi pandu (Tel.)|Mampazham (Tam.)|Mangifera indica (Sci.)|Mango, ripe, gulabkhas (Common)|MvinaHannu (Kan.)|Pakeli Kedi (G.)|Pakka aam (U.)|Soh pieng (Kh.)"
+E038,"Aam (A.)|Aam (P.)|Aam/paka (B.)|Aam/paka (H.)|Aamb (Kash.)|Aamra (S.)|Amba/pachila (O.)|Amba/piklela (Mar.)|Ampa (N.)|Keri (G.)|Mam pazham (Mal.)|Mamidi pandu (Tel.)|Mampazham (Tam.)|Mangifera indica (Sci.)|Mango, ripe, himsagar (Common)|MvinaHannu (Kan.)|Pakka aam (U.)|Soh pieng (Kh.)"
+E039,"Aam (A.)|Aam (P.)|Aam/paka (B.)|Aam/paka (H.)|Aamb (Kash.)|Aamra (S.)|Amba/pachila (O.)|Amba/piklela (Mar.)|Ampa (N.)|Kesar kedi (G.)|Mam pazham (Mal.)|Mamidi pandu (Tel.)|Mampazham (Tam.)|Mangifera indica (Sci.)|Mango, ripe, kesar (Common)|MvinaHannu (Kan.)|Pakka aam (U.)|Soh pieng (Kh.)"
+E040,"Aam (A.)|Aam (P.)|Aam/paka (B.)|Aam/paka (H.)|Aamb (Kash.)|Aamra (S.)|Amba/pachila (O.)|Amba/piklela (Mar.)|Ampa (N.)|Mam pazham (Mal.)|Mamidi pandu (Tel.)|Mampazham (Tam.)|Mangifera indica (Sci.)|Mango, ripe, neelam (Common)|MvinaHannu (Kan.)|Nilam kedi (G.)|Pakka aam (U.)|Soh pieng (Kh.)"
+E041,"Aam (A.)|Aam (P.)|Aam/paka (B.)|Aam/paka (H.)|Aamb (Kash.)|Aamra (S.)|Amba/pachila (O.)|Amba/piklela (Mar.)|Ampa (N.)|Keri (G.)|Mam pazham (Mal.)|Mamidi pandu (Tel.)|Mampazham (Tam.)|Mangifera indica (Sci.)|Mango, ripe, paheri (Common)|MvinaHannu (Kan.)|Pakka aam (U.)|Soh pieng (Kh.)"
+E042,"Aam (A.)|Aam (P.)|Aam/paka (B.)|Aam/paka (H.)|Aamb (Kash.)|Aamra (S.)|Amba/pachila (O.)|Amba/piklela (Mar.)|Ampa (N.)|Mam pazham (Mal.)|Mamidi pandu (Tel.)|Mampazham (Tam.)|Mangifera indica (Sci.)|Mango, ripe, totapari (Common)|MvinaHannu (Kan.)|Pakka aam (U.)|Soh pieng (Kh.)|Totapuri kedi (G.)"
+D057,"Aam/kancha (B.)|Amba (Mar.)|Ambo (G.)|Ambu/kacha (O.)|Kaccha aam (P.,U.)|Kach Aamb (Kash.)|Katcha Aam (H.)|Keasa aam (A.)|Mamidikaya (Tel.)|Manga (Mal.)|Mangai (Tam.)|Mangifera indica (Sci.)|Mango, green, raw (Common)|Mavinakayi (Kan.)|Soh pieng im (Kh.)"
+G015,"Aam ada (A.)|Aam adhrak (H.)|Aam adrak (P.,U.)|Adrak (Kash.)|Amada (B.)|AmbaHaldi (Mar.)|AmbaHardar (G.)|Curcuma amada (Sci.)|Mainji (Tam.)|Mamidiallam (Tel.)|Mangainji (Mal.)|Mango, ginger (Common)|Mavina hasi sunthi (Kan.)|Sying makhir (Kh.)"
+E028,"Aamba (N.)|Amrodh (Kash.)|Amrood (U.)|Amrud (H., P.)|Guava, white flesh (Common)|Koiyapazham (Tam.)|Madhurium (A.)|Perakka/nattu (Mal.)|Peru (Mar.)|Peruka (S.)|Peyara (B.)|Pijuli/deshi (O.)|Psidium guajava (Sci.)|Pungton (M.)|Seebe (Kan.)|Soh pyriam (Kh.)"
+E029,"Aamba (N.)|Amrodh (Kash.)|Amrud (H., P.)|Bilaiti pungton (M.)|Gauva, pink flesh (Common)|Koiyapazham (Tam.)|Lal jamphad (G.)|Madhurium (A.)|Perakka (Mal.)|Peru (Mar.)|Peruka (S.)|Peyara (B.)|Pijuli (O.)|Psidium guajava (Sci.)|Seebe (Kan.)|Soh pyriam (Kh.)"
+J001,"Aanabay/Aanabe (Kan.)|Agaricus sp. (Sci.)|Banger chata (B.)|Bhoochhtra (Mar.)|Biladi no top (G.)|Button mushroom, fresh (Common)|Chatu (O.)|Chenghum (M.)|Kaalaan (Tam.)|Khoomba (P.)|Kun koon (Mal.)|Mushroom (A.)|Putta Godugu (Tel.)|Tit budam (Kh.)"
+J002,"Aanabay/Aanabe (Kan.)|Banger chata (B.)|Bhoochhtra (Mar.)|Biladi no top (G.)|Chatu (O.)|Chenghum (M.)|Chicken mushroom, fresh (Common)|Kaalaan (Tam.)|Khoomba (P.)|Kun koon (Mal.)|Lactiporus sp. (Sci.)|Mushroom (A.)|Putta Godugu (Tel.)|Tit tyndong (Kh.)"
+J003,"Aanabay/Aanabe (Kan.)|Banger chata (B.)|Bhoochhtra (Mar.)|Biladi no top (G.)|Chatu (O.)|Kaalaan (Tam.)|Khoomba (P.)|Kun koon (Mal.)|Lentinula sp. (Sci.)|Mushroom (A.)|Putta Godugu (Tel.)|Shiitake mushroom, fresh (Common)|Uyen (M.)"
+J004,"Aanabay/Aanabe (Kan.)|Banger chata (B.)|Bhoochhtra (Mar.)|Biladi no top (G.)|Chatu (O.)|Chenghum (M.)|Kaalaan (Tam.)|Khoomba (P.)|Kun koon (Mal.)|Oyster mushroom, dried (Common)|Pleurotus sp. (Sci.)|Putta Godugu (Tel.)"
+E021,"Aanla (O.)|Amla (G., H.)|Amla (Mar.)|Amlakhi (A.)|Betta nelli (Kan.)|Emblica officinalis (Sci.)|Goosberry (Common)|Nellikka (Mal.)|Nellikkai (Tam.)|Olle (P.)|Soh mylleng (Kh.)|Usirikaya (Tel.)"
+F015,"Aararoot (G.)|Kasawa soji (U.)|Kathakonda (O.)|Krrapendalamu (Tel.)|Manihot esculenta (Sci.)|Maravalli kizhangu (Tam.)|Mra genasu (Kan.)|Mrachini (Mal.)|Phan dieng (Kh.)|Sagi (A.)|Simla alu (B.,H.,P.)|Simla Batata (Mar.)|Tapioca (Common)|Tarul (N.)|U manghra (M.)"
+E007,"Aathachakka/ Vennapazham (Mal.)|Avocado fruit (Common)|Bennephala
+Bennehannu (Kan.)""|Goshtub tang (Kash.)|Kulunashpati (B.)|Makhan phal (P.)|Makhanphal (H., Mar)|Persea americana (Sci.)|Vennaipazham (Tam.)"
+L002,"Aavu paalu (Tel.)|Doodh (Kash.)|Doodh/garu (B.)|Doodh/gay (Mar.)|Dud masi (Kh.)|Gaan da doodh (P.)|Gai dudha (O.)|Gai ka doodh (H.)|Gai nu dhudh (G.)|Garoor gakhir (A.)|Gow kshiram (S.)|Milk, Cow (Common)|Pasumpaal (Tam.)|San sanghom (M.)"
+D056,"Abelmoschus esculentus(Sci.)|Belandri (M.)|Bendakaya (Tel.)|Bende (Kan.)|Bhendi (A.,Mar.,O.,U.)|Bhinda (G.)|Bhindi (H.,P.)|Bhindikaa (S.)|Bindi (Kash.,Kh.)|Dherosh (B.)|Ladies finger (Common)|Ramtoriya (N.)|Vendaikkai (Tam., Mal.)"
+P036,Acanthurus mata(Sci.)|Matha (Common)
+H009,"Acchellu (Kan.)|Ellu (Mal.,Tam.)|Gingely seeds, black (Common)|Kada tal (G.)|Kola til (A.)|Nei iong (Kh.)|Nuvvulu (Tel.)|Rasi (O.)|Sesamum indicum (Sci.)|Teel (N.)|Thoiding Amuba (M.)|Til (B.,H.,Kash., Mar.,P.,S.,U.)"
+H010,"Acchellu (Kan.)|Ellu (Mal.,Tam.)|Gingely seeds, brown (Common)|Matia rangar til (A.)|Nei (Kh.)|Nuvvulu (Tel.)|Rasi (O.)|Sesamum indicum (Sci.)|Tal (G.)|Teel (N.)|Thoiding (M.)|Til (B.,H.,Kash., Mar.,P.,S.,U.)"
+H011,"Acchellu (Kan.)|Boga til (A.)|Ellu (Mal.,Tam.)|Gingely seeds, white (Common)|Nei (Kh.)|Nuvvulu (Tel.)|Rasi (O.)|Safed tal (G.)|Sesamum indicum (Sci.)|Teel (N.)|Thoiding angouba (M.)|Til (B.,H.,Kash., Mar.,P.,S.,U.)"
+E060,"Achras sapota(Sci.)|Chiku (A.,H.,Mar.,P.)|Sapota (Common,Kan., Mal.,O.,Tel.,U.)"
+B004,"Adad (G.)|Birri (O.)|Black gram, whole (Common)|Chhilke wali urad dal (H.)|Dai iong (Kh.)|Gota mati mah (A.)|Kaha (Kash.)|Mashkolail (B.)|Minumulu (Tel.)|Phaseolus mungo (Sci.)|Sabut maa ki daal (P.)|Uddachi dal (Mar.)|Uddhina bele (Kan.)|Ulundhu (Tam.)|Uzhunu (Mal.)|Yubi Mahi (M.)"
+H002,"Adakka (Mal.)|Adike (Kan.)|Areca catechu (Sci.)|Arecanut, dried, brown (Common)|Gua (O.)|Kottai paakku (Tam.)|Kwai tyrkhong (Kh.)|KwaMaru (M.)|Puuga (S.)|Sopari (G.)|Sufari (A.)|Supari (B.,H.,Kash., Mar.,N.,P.,U.)|Vakka (Tel.)"
+H003,"Adakka (Mal.)|Adike (Kan.)|Areca catechu (Sci.)|Arecanut, dried, red color (Common)|Gua (O.)|Kwa Maru (M.)|Kwai supari (Kh.)|Paakku (Tam.)|Puuga (S.)|Sopari (G.)|Sufari (A.)|Supari (B.,H.,Kash., Mar.,N.,P.,U.)|Vakka (Tel.)"
+H004,"Adakka (Mal.)|Adike (Kan.)|Areca catechu (Sci.)|Arecanut, fresh (Common)|Gua (O.)|Kesa tamul (A.)|Kwa Maru (M.)|Kwai im (Kh.)|Paakku (Tam.)|Puuga (S.)|Sopari (G.)|Supari (B.,H.,Kash., Mar.,N.,P.,U.)|Vakka (Tel.)"
+H008,"Adityala (Tel.)|Ahiva (Mar.)|Alivirai (Mal., Tam.)|Allibija (Kan.)|Asadiyo (G.)|Garden cress, seeds (Common)|Lepidium sativum (Sci.)|Soru manimunni (A.)"
+C021,Adityala Akulu (Tel.)|Ahiva ka patta (Mar.)|Alivirai cheera (Mal.)|Alivirai keerai (Tam.)|Allibija soppu (Kan.)|Asadio na pan (G.)|Bor manimuni (A.)|Chamsoor ko Saag (N.)|Garden cress (Common)|Kakharu Saga (O.)|Khliang syiar (Kh.)|Lepidium sativum (Sci.)
+H014,"Adsi (G.)|Agasi (Kan.)|Ailsh (Kash.)|Ali vidai (Tam.)|Alsi (H., P.)|Alsi (P.)|Alsi (U.)|Atasii (S.)|Avise ginzalu (Tel.)|Cheruchana vithu (Mal.)|Linseeds (Common)|Linum usitatissimum (Sci.)|Pesi (O.)|Tishi (B.)"
+F004,"Advi (G.)|Alu kanda (Mar.)|Arwi (H., P., U.)|Chama dumpa (Tel.)|Chembu (Mal.)|Colocasia (Common)|Colocasia antiquorum (Sci.)|Faram (Kash.)|Ka shriew (Kh.)|Kochu (B.)|Kosu (A.,Kan.)|Paan (A.,M.)|Samagadde (Kan.)|Saru (O.)|Seppankizhangu (Tam.)"
+C018,"Advi na pan (G.)|Alu pan (Mar.)|Arbi-di-patte (P.)|Arvi ka patta (U.)|Arvi ka sag (H.)|Chama akulu (Tel.)|Chembu ilagal (Mal.)|Colocasia antiquorum (Sci.)|Colocasia, leaves, green (Common)|Karkalo (N.)|Kasu sak (A.)|Kochu pata (B.)|Paan mana (M.)|Saru saga (O.)|Seppam ilaigal (Tam.)|Shamangadda yele (Kan.)|Sla wang (Kh.)"
+E008,"Aegle marmelos(Sci.)|Bael fruit (Common)|Bhel (P.)|Bila (B.,H., Mar.)|Marendu pandu (Tel.)|Soh bel (Kh.)|Vilwa pazham (Mal., Tam)"
+E050,"Aer (Kash.)|Ahom bogori (A.)|Aroo (H., P.)|Chumbrei (M.)|Peach (Common)|Prunus communis (Sci.)|Soh phareng (Kh.)"
+G032,Afiam (Mal.)|Afim (Kan.)|Afoo guti (A.)|Aphina (G.)|Gasagasalu (Tel.)|Khas Khas (P.)|Khasa (S.)|Khasa khasa (Tam.)|Khash Khash (U.)|Khaskhas (Mar.)|Khaskhash (Kash.)|Khus khus (G.)|Papaver somniferum (Sci.)|Poppy seeds (Common)|Posta (B.)|Postak (O.)|Postdana (H.)
+C001,Agase soppu (Kan.)|Agasthi (H.)|Agasthi ka sag (Mar.)|Agasti (O.)|Agathi cheera (Mal.)|Agathi keerai (Tam.)|Agathi leaves (Common)|Agathio (G.)|Avise akulu (Tel.)|Bak ful shak (B.)|Bok phular paat (A.)|ChuChu Rangmei (M.)|Sesbania grandiflora (Sci.)
+E053,"Ahnaros (A.)|Ananas (H., Kan., P., U.)|Ananas comosus (Sci.)|Anarasa (B.)|Anas (Kon.)|Anasa pandu (Tel.)|Anenas (G.)|Annasi pazham (Tam.)|Kayirhachakka (Mal.)|Kihom (M.)|Pineapple (Common)|Punchitipul (Kash.)|Sapuri (O.)|Soh trun (Kh.)"
+G029,"Ajamoda (S.)|Ajmo (G.)|Ajwain (A., P., U.)|Ajwan (H.)|Oma (Kan.)|Omum (Common,Tam.)|Onva (Mar.)|Paspron (Kh.)|Trachyspermum ammi (Sci.)|Vamu (Tel.)"
+C028,"Ajmod (U.)|Auchumooda (Kan.)|Kothimbir dhane (Mar.)|Leela dhana (G.)|Parsley (Common,P.)|Petroselinum crispum (Sci.)|Seema malli (Mal.)|Sugandhi lota (A.)|Verkosu (Tam.)"
+D037,Ajmud (H.)|Apium graveolens (Sci.)|Celery daandi (G.)|Celery stalk (Common)|Dieng seleri (Kh.)|Randhuni (B.)|Sivarikkeerai (Tam.)
+H021,"Akhoot (O.)|Akhrod (Mar.)|Akhrot (A., B., G., H., P.)|Akhrot (Tam.)|Akhrut (U.)|Akrodu (Kan.)|Akrot kaya (Tel.)|Akrottandi (Mal.)|Dhoon (Kash.)|Okhar (N.)|Walnut (Common,Kh.)"
+A015,"Akki (Kan.)|Arisi (Tam.)|Biyyam (Tel.)|Chaul (P.)|Chaula (O.)|Chawal (H.)|Cheng (M.)|Choka (G.)|Chowl (B.)|Khaw boil (Kh.)|Milat khunda chaul (A.)|Oryza sativa (Sci.)|Rice, raw, milled (Common)|Tomul (Kash.)|Tondool (Mar.)"
+B005,"Alasande (Kan.)|Barbati (B.)|Baunir (U.)|Bobbarlu (Tel.)|Bodi (N.)|Chavli (Mar.)|Chorap (G.)|Cowpea, brown (Common)|Karamani (Tam.)|Lesera mahor guti (A.)|Lobia (H.,P.)|PongHawai (M.)|Raajamaassa (S.)|Rymbai (Kh.)|Vella payaru (Mal.)|Vigna catjang (Sci.)"
+B006,"Alasande (Kan.)|Barbati (B.)|Baunir (U.)|Bobbarlu (Tel.)|Bodi (N.)|Chavli (Mar.)|Chorap (G.)|Cowpea, white (Common)|Karamani (Tam.)|Lesera mahor guti (A.)|Lobia (H.,P.)|PongHawai (M.)|Raajamaassa (S.)|Rymbai lieh (Kh.)|Vella payaru (Mal.)|Vigna catjang (Sci.)"
+P025,Alectis indicus (Sci.)|Kannadi paarai (Common)
+P001,Allathi(Common)|Elops machnata (Sci.)
+G017,"Allium cepa (Sci.)|Eerulli (Kan.)|Gandha (Kash.)|Gandhe (P.)|Kanda (Mar.)|Kando (G.)|Neerulli Ullipaya (Tel.)|Onion, big (Common)|Palaanduh (S.)|Peyaj (B.)|Piaja (O.)|Piat (Kh.)|Piyanj (A.)|Pyaaz (U.)|Pyaj (N.)|Pyaz (H.)|Tilhou (M.)|Ulli (Mal.)|Vengayam (Tam.)"
+G018,"Allium cepa (Sci.)|Chayapi (N.)|Cheriya Ulli (Mal.)|Chikk Eerulli (Kan.)|Chinna ullipaya (Tel.)|Chinna vengayam (Tam.)|Dungri/nani (G.)|Gandhe (P.)|Gundhun (B.)|Kanda (Mar.)|Onion, small (Common)|Piat rit (Kh.)|Praan (Kash.)|Pyaaz (U.)|Pyaaz Kali (H.)|Tilhou (M.)|Xoru Piyanj (A.)"
+G011,"Allium sativum (Sci.)|Bellulli (Kan.)|Chanam (M.)|Garlic, big cloves (Common)|Laisan (U.)|Lasan (G.,P.)|Lashoonam (S.)|Lasoon (Mar.)|Lasun (N.)|Lehsan (H.)|Nohoru (A.)|Poondu (Tam.)|Rashun (B.)|Rasuna (O.)|Ruhan (Kash.)|RynsunHeh Rynsun dkhar (Kh.)|Vellulli (Mal.,Tel.)"
+G012,"Allium sativum (Sci.)|Bellulli (Kan.)|Chanam (M.)|Garlic, small cloves (Common)|Laisan (U.)|Lasan (G.,P.)|Lashoonam (S.)|Lasoon (Mar.)|Lasun (N.)|Lehsan (H.)|Nohoru (A.)|Poondu (Tam.)|Rashun (B.)|Rasuna (O.)|Ruhan (Kash.)|Rynsun rit (Kh.)|Vellulli (Mal.,Tel.)"
+G013,"Allium sativum (Sci.)|Bellulli (Kan.)|Chanam (M.)|Ek koya Rashun (B.)|Garlic, single clove, (Kash.)|Laisan (U.)|Lasan (G.,P.)|Lashoonam (S.)|Lasoon (Mar.)|Lasun (N.)|Lehsan (H.)|Nohoru (A.)|Ottrai poondu (Tam.)|Rasuna (O.)|Ruhan (Kash.)|Rynsun (Kh.)|Vellulli (Mal.,Tel.)"
+D058,"Allium wakegi (Sci.)|Chhayapi ko Saag (N.)|Dunglina dakkadi/Onion dakkadi (G.)|Erulli soppu (Kan.)|Onion, stalk (Common)|Pati (Mar.)|Piaja sandha (O.)|Pichiganda (Kash.)|Piyaj paat (A.)|Piyaz kali (B.)|Pyaz (H.)|Sla piat (Kh.)|Tilhou Mana (M.)|Ulli kadalu (Tel.)|Ulli thandu (Mal.)|Vengaya thaal (Tam.)"
+H001,Almon (Kh.)|Almond(Common)|Badam Pappu (Tel.)|Badam paruppu (Tam.)|China badam (A.)|Kagji Badam (N.)|Prunus amygdalus (Sci.)|Vatam kottai (Mal.)
+I001,"Aloo (M.)|Bella (Kan.)|Bellam (Tel.)|God (G.)|Godd (Kon.)|Gor (Kash.)|Gud (H.,P.,U.,O.)|Gul (Mar.)|Gur (A.)|Gurh (B.)|Mandavellam (Tam.)|Mithai Gur (Kh.)|Saccharum officinarum (Sci.)|Vellam (Mal.)"
+C029,"Alternanthera sessilis(Sci.)|Khanchari (B.)|Kunte ki bhaji (U.)|Madarangh (O.)|Matikaduri (A.)|Phakchet (M.)|Ponnaganni (Common)|Ponnaganni cheera (Mal.)|Ponnaganni keerai (Tam.)|Ponnaganti koora (Tel.)|Saragwa na pan (G.)|Saranthi sag (H.,Mar)"
+D040,"Alu-che-dath (Mar.)|Arbi de dande (P.)|Arwi ke kade (U.)|Arwi -ki-dandi (H.)|Chama kada (Tel.)|Chembin thandu (Mal.)|Colocasia esculenta (Sci.)|Colocasia, stem, black (Common)|Kawang iong (Kh.)|Kesu danthu (Kan.)|Kochur loti (B.)|Kosu thari (A.)|Paan Makhok (M.)|Paan Makhok (M.)|Sarunada (O.)|Seppanthandu (Tam.)"
+D041,"Alu-che-dath (Mar.)|Arbi de dande (P.)|Arwi ke kade (U.)|Arwi -ki-dandi (H.)|Chama kada (Tel.)|Chembin thandu (Mal.)|Colocasia esculenta (Sci.)|Colocasia stem, green (Common)|Ka wang jyrngam (Kh.)|Kesu danthu (Kan.)|Kochur loti (B.)|Kosu thari (A.)|Paan Makhok (M.)|Paan Makhok (M.)|Sarunada (O.)|Seppanthandu (Tam.)"
+P011,Aluterus monoceros (Sci.)|Chappal (Common)
+P002,Aluva (Common)|Parastromateus niger (Sci.)
+D032,Amarakka (Mal.)|Avarai (Tam.)|Bakla (H.)|Broad beans (Common)|Chkaooaradavare (Kan.)|Fafda papdi (G.)|Ghewda (Mar.)|Makhon shim (B.)|Pedda chikkudu (Tel.)|Ri majai (Kh.)|Simba (O.)|Thoolhaymbe (Kash.)|Urahi (A.)|Vicia faba (Sci.)
+A001,"Amaranth seed, black (Common)|Amaranthus cruentus (Sci.)|Cavali biya (Mar.)|Chaulali beej (P.)|Cheera vithu (Mal.)|Chengkruk Maru (M.)|Danthu beeja (Kan.)|Keerai vidai (Tam.)|Kosala sag manji Dhala (O.)|Mawal (Kash.)|Moricha guti (A.)|Ramdana (H.)|Thotakoora ginjalu (Tel.)"
+A002,"Amaranth seed, pale brown (Common)|Amaranthus cruentus (Sci.)|Cavali biya (Mar.)|Cheera vithu (Mal.)|Chengkruk Maru (M.)|Danthu beeja (Kan.)|Keerai vidai (Tam.)|Kosala sag maji Kale (O.)|Mawal (Kash.)|Moricha guti (A.)|Rajagaro (G.)|Ramdana (H.)|Thotakoora ginjalu (Tel.)"
+C005,"Amaranth spinosus (Sci.)|Amaranth, spinous, leaves, green (Common)|Chengkruk (M.)|Kanta notay shak (O.)|Kanta vado tandaljo (G.)|Kanta -notya (B.)|Kantemanth (Mar.)|Kantewali chaulai (P.)|Kantewali -notya (H.)|Mawal (Kash.)|Moricha sak (A.)|Mulaikeerai (Tam.)|Mulla danthu (Kan.)|Mulla thotakura (Tel.)|Mullancheru - cheera (Mal.)"
+C006,"Amaranth spinosus (Sci.)|Amaranth, spinous, leaves, red and green (Common)|Chengkruk (M.)|Kanta neutia sag (O.)|Kanta vado tandaljo (G.)|Kanta -notya shaak (B.)|Kantemanth (Mar.)|Kantewali chaulai (P.)|Kantewali -notya (H.)|Mawal (Kash.)|Mulakeerai (Tam.)|Mulla danthu (Kan.)|Mulla thotakura (Tel.)|Mullancheru - cheera (Mal.)|Sla longmar (Kh.)"
+C002,"Amaranth leaves, green (Common)|Amaranthus gangeticus (Sci.)|Chaulai (H.)|Chaulai sag (P.)|Cheera (Mal.)|Chengkruk (M.)|Cholai (U.)|Danthu (Kan.)|Latte to saag (N.)|Maarissa (S.)|Math (G.,Mar.)|Mawal (Kash.)|Moricha sak (A.)|Neutia sag (O.)|Notya Shaakh (B.)|Taldalja ni bhaaji (G.)|Thandu keerai (Tam.)|Thotakoora (Tel.)"
+C003,"Amaranth leaves, red (Common)|Amaranthus gangeticus (Sci.)|Chaulai (H.)|Cheera (Mal.)|Chengkruk (M.)|Cholai (U.)|Danthu (Kan.)|Lal chaulai sag (P.)|Lal Shaakh (B.)|Lal tandaljo (G.)|Latte to saag (N.)|Maarissa (S.)|Math (G.,Mar.)|Mawal (Kash.)|Moricha (A.)|Neutia sag (O.)|Thandu keerai (Tam.)|Thotakoora (Tel.)"
+C004,"Amaranth leaves, red and green(Common)|Amaranthus gangeticus (Sci.)|Chaulai (H.)|Chaulai sag (P.)|Cheera (Mal.)|Chengkruk (M.)|Cholai (U.)|Danthu (Kan.)|Latte to saag (N.)|Maarissa (S.)|Math (G.,Mar.)|Mawal (Kash.)|Moricha (A.)|Neutia sag (O.)|Notya Shaakh (B.)|Tandaljo (G.)|Thandu keerai (Tam.)|Thotakoora (Tel.)"
+C032,"Ambada/sorrel (G.)|Amlavetasa (Mar., S.)|Bun palung (B.)|Chukki soppu (Kan.)|Rumex leaves (Common)|Rumex patientia (Sci.)|Suka sak (A.)|TukhmHummaz (U.)"
+C022,"Ambada ki bhaji (U.)|Ambadi (G.)|Ambadi (Mar.)|Gogu leaves, green stem (Common)|Gongura (Tel.)|Mestapat (B.)|Nalite saga (O.)|Pitwa (H.)|Pitwa sag (P.)|Pulichai cheera (Mal.)|Pulichchai keerai (Tam.)|Pundi (Kan.)|Sla jajew jyrngam (Kh.)|Sougri mana (M.)|Tengamora (A.)"
+C023,"Ambada ki bhaji (U.)|Ambadi (G.)|Ambadi (Mar.)|Gogu leaves, red stem (Common)|Gongura (Tel.)|Mestapat (B.)|Nalite saga (O.)|Pitwa (H.)|Pitwa sag (P.)|Pulichai cheera (Mal.)|Pulichchai keerai (Tam.)|Pundi (Kan.)|Sla jajew saw (Kh.)|Sougri mana (M.)|Tengamora (A.)"
+E049,"Amita (A.)|Amrutbhanda/Pachila (O.)|Boppayi pandu (Tel.)|Carcia papaya (Sci.)|Kamphoi (M.)|Mewa (N.)|Omakai (Mal.)|Papaya, ripe (Common)|Papayi (G.,Kon.)|Papayu (G.)|Papita (H.)|Papita (Kash.,P.,U.)|Pappali (Tam.)|Pappayi hannu (Kan.)|Pepe/paka (B.)|Popai (Mar.)|Soh Kymphor (Kh.)"
+E064,"Amli (G.)|Chinch (Mar.)|Chintha pandu (Tel.)|Mange (M.)|Puli (Mal.,Tam.)|Soh kyntoi (Kh.)|Sucukrika (S.)|Tamarind, pulp (Common)|Tamarindus indicus (Sci.)|Tambari (Kash.)|Tentuli (O.)|Teteli (A.)|Tetul (B.)"
+C034,"Amli na pan (G.)|Chinchecha pala (Mar.)|Chinta chiguru (Tel.)|Mange Mana (M.)|Puliam ilaigal (Mal., Tam)|Sla sohkyntoi (Kh)|Tamaridus indica (Sci.)|Tamarind leaves, tender (Common)|Tentuli (O.)|Teteli paat (A.)|Tetul pata (B.)"
+F017,"Amorphophallus paeoniifolius (Sci.)|Chena (Mal.)|Kandha dumpa (Tel.)|Karunai kizhangu (Tam.)|Ol (B.)|Ol kachu (A.)|Shriew hati (Kh.)|Suran (G.,O.)|Suran (Mar.)|Suvarna gadda (Kan.)|Yam, elephant (Common)|Zimikand (P.)|Zimikandha (H.)"
+E062,Amrakh (G.)|Averrhoa carambola (Sci.)|Caturappuli (Mal.)|Kamaraka Kapazakshi Hannu (Kan.)|Kamrakh (U.)|Karamanga (O.)|Karambal (Mar.)|Kazmal Kamrakh (H.)|Kordoi (A.)|Soh pyrshong (Kh.)|Star fruit (Common)|Tamarattai (Tam.)
+D059,"Amrutabhanda (O.)|Boppayi kaya (Tel.)|Carcia papaya (Sci.)|Dudde (Kon.)|Katcha pepita (H.,P.)|Kesa omita (A.)|Omakaya (Mal.)|Papaya (Mar.,U.)|Papaya, raw (Common)|Papayi (G.,Kon.)|Papita (Kash.,P.,U.)|Pappalikkaai (Tam.)|Parangi (Kan.)|Pempe/Kacha (B.)|Soh Kymphor im (Kh.)"
+E055,"Anaar (U.)|Anar (H.)|Anar (P.)|Bedana (B.)|Daaddima (S.)|Daan (Kash.)|Dadam (G.)|Dalim (A.)|Dalimb (Kon.,Mar.)|Dalimba (O.)|Dalimbari (Kan.)|Danimma pandu (Tel.)|Kamphoi (M.)|Madhulam pazham (Tam.)|Mathalam pazhham (Mal.)|Pomegranate, maroon seeds (Common)|Punica granatum (Sci.)|Soh pomegranate (Kh.)"
+H005,Anacardium occidentale (Sci.)|Cashew nut (Common)|Geru (Kan.)|Kaju (G.)|Kaju (H.)|Kaju badam (A.)
+G033,"Anashina (Kan.)|Besar (N.)|Curcuma domestica (Sci.)|Lader (Kash.)|Manjal (Mal.,Tam.)|Pasupu (Tel.)|Shynrai (Kh.)|Turmeric powder (Common)|Yaingang (M.)"
+P027,Anchoa hepsetus (Sci.)|Karnagawala (Common)
+P003,Anchovy (Common)|Stolephorus indicus (Sci.)
+E022,"Angoor (A., B., H., M., N., O., P.)|Dach (Kash.)|Draakssaa (S.)|Draksha (Kan.,Mar.)|Draksha padu (Tel.)|Grapes seeded, round, black (Common)|Kadi draksha (G.)|Mundiringa (Mal.)|Panneer dratchai (Tam.)|Soh grape iong (Kh.)|Vitis vinifera (Sci.)"
+E023,"Angoor (A., B., H., M., N., O., P.)|Dach (Kash.)|Draakssaa (S.)|Draksha (Kan.,Mar.)|Draksha padu (Tel.)|Dratchai (Tam.)|Grapes seeded, round, green (Common)|Lili Draksha (G.)|Mundiringa (Mal.)|Soh grape jyrngam (Kh.)|Vitis vinifera (Sci.)"
+E024,"Angoor (A., B., H., M., N., O., P.)|Dach (Kash.)|Draakssaa (S.)|Draksha (Kan.,Mar.)|Draksha padu (Tel.)|Dratchai (Tam.)|Grapes seeded, round, red (Common)|Lal Draksha (G.)|Mundiringa (Mal.)|Soh grape saw (Kh.)|Vitis vinifera (Sci.)"
+E025,"Angoor (A., B., H., M., N., O., P.)|Dach (Kash.)|Draakssaa (S.)|Draksha (G.)|Draksha (Kan.,Mar.)|Draksha padu (Tel.)|Dratchai (Tam.)|Grapes seedless, oval, black (Common)|Mundiringa (Mal.)|Soh grape iong (Kh.)|Vitis vinifera (Sci.)"
+E026,"Angoor (A., B., H., M., N., O., P.)|Dach (Kash.)|Draakssaa (S.)|Draksha (Mar.)|Draksha (G.)|Draksha (Kan.,Mar.)|Draksha padu (Tel.)|Dratchai (Tam.)|Grapes seedless, round, green (Common)|Mundiringa (Mal.)|Soh grape jyrngam (Kh.)|Vitis vinifera (Sci.)"
+E027,"Angoor (A., B., H., M., N., O., P.)|Dach (Kash.)|Draakssaa (S.)|Draksha (Kan.,Mar.)|Draksha padu (Tel.)|Dratchai (Tam.)|Grapes seedless, round, black (Common)|Kadi draksha (G.)|Mundiringa (Mal.)|Soh grape iong (Kh.)|Vitis vinifera (Sci.)"
+S003,Anguilla anguilla (Sci.)|Freshwater Eel (Common)
+E020,"Anjeer (H., Kash., P., U.)|Anjiira (S.)|Anjir (G., Mar., N.)|Anjurada Haṇṇugaḷu (Kan.)|Athipazham (Mal., Tam.)|Atti pandu (Tel.)|Dimiri (O.)|Dimoru (A.)|Dumura (B.)|Ficus carica (Sci.)|Figs (Common)|Soh dimbur (Kh.)"
+E061,Annona muricata (Sci.)|Lakshamana phalamu (Tel.)|Lakshmanaphala Mulluramphala (Kan.)|Malai seethapalam Paanghi pazham (Tam.)|Mullatha (Mal.)|Shul-ram fal (H.)|Soursop (Common)
+E016,"Annona squamosa (Sci.)|Ata (B., O)|Custard apple (Common)|Seethapazham (Mal.,Tam.)|Sharifa (H., P)|Sitapad (G.)|Sitaphal (A.)|Sitaphal (Mar.)|Sitaphalam (Kan., Tel)"
+E001,"Apel (A.)|Apple pazham (Mal., Tam.)|Apple, big (Common)|Malus sylvestris (Sci.)|Safar chand (Mar.)|Safarjan (G.)|Saib (U.)|Seb (P.)|Sebu (Kan.)|Sem (H.)|Sepu Sema regu (Tel.)|Sev (B.,H.,O.)|Seva (S.)|Shau (N.)|Soh apple saw (Kh.)|Tsoonth (Kash.)"
+E002,"Apel (A.)|Apple pazham (Mal., Tam.)|Apple, green (Common)|Lila safarjan (G.)|Malus sylvestris (Sci.)|Safar chand (Mar.)|Saib (U.)|Seb (P.)|Sebu (Kan.)|Sem (H.)|Sepu Sema regu (Tel.)|Sev (B.,H.,O.)|Seva (S.)|Shau (N.)|Soh apple Jyrngam (Kh.)|Tsoonth (Kash.)"
+E003,"Apel (A.)|Apple pazham (Mal., Tam.)|Apple, small (Common)|Malus sylvestris (Sci.)|Safar chand (Mar.)|Safarjan (G.)|Saib (U.)|Seb (P.)|Sebu (Kan.)|Sem (H.)|Sepu Sema regu (Tel.)|Sev (B.,H.,O.)|Seva (S.)|Shau (N.)|Soh apple saw (Kh.)|Tsoonth (Kash.)"
+E004,"Apel (A.)|Apple pazham (Mal., Tam.)|Apple, small, Kashmir (Common)|Malus sylvestris (Sci.)|Safar chand (Mar.)|Safarjan (G.)|Saib (U.)|Seb (Kan.)|Seb (P.)|Sem (H.)|Sepu Sema regu (Tel.)|Sev (B.,H.,O.)|Seva (S.)|Shau (N.)|Soh apple saw (Kh.)|Tsoonth (Kash.)"
+E005,"Apricot, dried (Common)|Kharamani (P.)|Khattu (N.)|Khoomani (H.)|Khubaani (U.)|Malhei (M.)|Malhoi (A.)|Prunus armeniaca (Sci.)|Sakkarai badhami (Tam.)|Seema Badam Jallaru Pandu (Tel.)|Sheema bedhaam pazham (Mal.)|Suska khubani (B.)|Tser (Kash.)"
+E006,"Apricot, processed (Common)|Kharamani (P.)|Khattu (N.)|Khoomani (H.)|Khubaani (U.)|Malhei (M.)|Malhoi (A.)|Prunus armeniaca (Sci.)|Sakkarai badhami (Tam.)|Seema Badam Jallaru Pandu (Tel.)|Sheema bedhaam pazham (Mal.)|Suska khubani (B.)|Tser (Kash.)"
+P004,Aprion virescens (Sci.)|Ari fish (Common)
+P088,Aprion virescens (Sci.)|Vela meen (Common)
+H012,"Arachis hypogea (Sci.)|Badam (A.,B.,G.,H.,Kan., Kash.,Kh.,M.,Mar.,O.,P.,U.)|Bhui mug (Mar.)|China badam (B.,O.)|Ground nut (Common)|Kadale kayi (Kan.)|LeibakHawai (M.)|Moog phali (H.,P.,U.)|Moong phalli (Kash.)|Nilakkadalai (Mal.)|Singdana (G.)|Verkadalai (Tam.)|Verusenaga (Tel.)"
+D064,"Arati doota (Tel.)|Bele Dindu (Kan.)|Kadali manja (O.)|Kelanu thed (G.)|Kele da tana (P.)|Kele -ka-tana (H.)|Kelicha khunt (Mar.)|Lafu (M.)|Musa sapientum (Sci.)|Nud kait (Kh.)|Plantain, stem (Common)|Posola (A.)|Thor (B.)|Unnipindi (Mal.)|Vazhai thandu (Tam.)"
+D063,"Arati kayi (Tel.)|Bale kayi (Kan.)|Bantala kadali (O.)|Bungo (N.)|Kaccha kela (U.)|Kait im (Kh.)|Kaskol Purakol (A.)|Kel/hara (Mar.)|Kela (G.,H.,P.,Kash.,U.)|Kela/kanch (B.)|Kham kael (Kash.)|Laphoi Ashangba (M.)|Musa sapientum (Sci.)|Plantain, green (Common)|Rambhaa (S.)|Vazhakkaai (Tam.,Mal.)"
+E009,"Arati pandu (Tel.)|BaleHannu (Kan.)|Banana, ripe, montham (Common)|Champa kadali (O.)|Kadalii (S.)|Kait syiem (Kh.)|Kela (G.,H.,P.,Kash.,U.)|Kele (Mar.)|Kella (P.)|Kera (N.)|Kola/paka (B.)|Laphoi (M.)|Musa x paradisiaca (Sci.)|Paka keda (G.)|Poka kol (A.)|Vazha pazham (Mal.,Tam.)"
+E010,"Arati pandu (Tel.)|BaleHannu (Kan.)|Banana, ripe, poovam (Common)|Champa kadali (O.)|Kadalii (S.)|Kait mon ja (Kh.)|Kela (G.,H.,P.,Kash.,U.)|Kele (Mar.)|Kella (P.)|Kera (N.)|Kola/paka (B.)|Laphoi (M.)|Musa x paradisiaca (Sci.)|Paka keda (G.)|Poka kol (A.)|Vazha pazham (Mal.,Tam.)"
+E011,"Arati pandu (Tel.)|BaleHannu (Kan.)|Banana, ripe, red (Common)|Champa kadali (O.)|Kadalii (S.)|Kait saw (Kh.)|Kela (G.,H.,P.,Kash.,U.)|Kele (Mar.)|Kella (P.)|Kera (N.)|Kola/paka (B.)|Lal paka keda (G.)|Laphoi (M.)|Musa paradisiaca (Sci.)|Poka kol (A.)|Sevvazhaipazham (Tam.)|Vazha pazham (Mal.,Tam.)"
+E012,"Arati pandu (Tel.)|BaleHannu (Kan.)|Banana, ripe, robusta (Common)|Champa kadali (O.)|Kadalii (S.)|Kait jaji (Kh.)|Keda (G.)|Kela (G.,H.,P.,Kash.,U.)|Kele (Mar.)|Kella (P.)|Kera (N.)|Kola/paka (B.)|Laphoi (M.)|Musa x paradisiaca (Sci.)|Poka kol (A.)|Vazha pazham (Mal.,Tam.)|Vazhaipazham (Tam.)"
+D062,"Arati puvvu (Tel.)|Bale motho (Kan.)|Kadali bhanda (O.)|Kel phool (G.)|Kel phool (Mar.)|Kela ka phool (U.)|Kele -da-phool (P.,H.)|Koldil (A.)|Lafu Tharo (M.)|Mocha (B.)|Musa sapientum (Sci.)|Pashor kait (Kh.)|Plantain, flower (Common)|Vazhapoo (Mal.,Tam.)"
+D067,"Arhar ki fali (H. )|Cajanus cajan (Sci.)|Pacchi Kandulu (Tel.)|Red gram, tender, fresh (Common)|Thuvarai (Tam.)"
+B022,"Arhar sabud (H.)|Arhar sabut dal (P.)|Cajanus cajan (Sci.)|Gota rohor (A.)|Kandulu (Tel.)|Mairongbi (M.)|Masur (Kash.)|Red gram, whole (Common)|Rymbai ja (Kh.)|Turdal (Mar.)|Tuvar (U.)|Tuvarai (Tam.)|Tuvaru parippu (Mal.)|Tuver (G.)"
+A013,"Arisi (Tam.)|Bhura choul (P.)|Chawal (H.)|Cheng (M.)|Dampudu biyyam (Tel.)|Kathai chokha (G.)|Khaw saw (Kh.)|Kuthari (Mal.)|Matia rangar chaul (A.)|Oryza sativa (Sci.)|Rice, raw, brown (Common)|Tomul (Kash.)"
+P018,Arius sp. (Sci.)|Jallal (Common)
+D051,"Artocarpus heterophyllus (Sci.)|Bindu (Kash.)|Chakka (Mal.)|Kanthal (B.)|Katahar (N.)|Kathahal (U.)|Kathal (H.,P.)|Kathal ki beej (P.)|Kothal (A.)|Palapazham (Tam.)|Panasa (O.,S.,Tel.)|Phanas (G.,Mar.)|SagolHawai (M.)|Soh phan (Kh.)"
+D052,"Artocarpus heterophyllus (Sci.)|Bindu (Kash.)|Chakka (Mal.)|Kanthal (B.)|Katahar (N.)|Kathahal (U.)|Kathal (H.,P.)|Kothal guti (A.)|Palakkottai (Tam.)|Panasa (O.,S.,Tel.)|Phanas (G.,Mar.)|Shyieng soh phan (Kh.)|Theibong Maru (M.)"
+D030,"Artocarpus heterophyllus (Sci.)|Badane (Kan.)|Baigan (O.)|Baigan (P.)|Baigan (U.)|Baingan (H.)|Begun (B.)|Bengena (A.)|Bhantaa (N.)|Brinjal (Common)|Kathal (H.,P.)|Kathirikkai (Tam.)|Lam Khamen (M.)|Ringna (G.)|Sohbaingon jyrngam (Kh.)|Solanum melongena (Sci.)|Vange (Mar.)|Vaṅkaya (Tel.)|Vazhuthiniga (Mal.)|Vruntaakam (S.)|Wagun (Kash.)"
+G019,Asafoetida (Common)|Badhika (S.)|Ferula assa -foetida (Sci.)|Perugayam (Tam.)|Perungayam (Mal.)|U hing (Kh.)|Yangu (Kash.)
+H013,"Assur (Kash.)|Avalu (Tel.)|Brassica nigra (Sci.)|Kadugu (Mal.,Tam.)|Mohori (Mar.)|Mustard, seeds (Common)|Rai (G.,H.,P.,U.)|Rayo (N.)|Sarssapa (S.)|Sasuve (Kan.)|Sorisa (O.)|Soriyah (A.)|Sorse (B.)|Symbai syrso (Kh.)"
+A019,"Ata (B.)|Atta (H., P.)|Gahama atta (O.)|Godhambu mavu (Mal.)|Kaneek (Mar.)|Mulu Godumai maavu (Tam.)|Oat unno lota ghaun no lot (Kash.)|Samagra gha (G.)|Sampurna godhi hittu (Kan.)|Sampurna godhuma pindi (Tel.)|Triticum aestivum (Sci.)|Wheat flour, atta (Common)"
+A011,"Atukulu (Tel.)|Aval (Mal., Tam.)|Avalakki (Kan.)|Chengpaak (M.)|Chevri (Kash.)|Chide (B.)|Chira (A.)|Chirwre (P.)|Chudaa (O.)|Oryza sativa (Sci.)|Paunva (G.)|Poha (H.)|Pohe (Mar.)|Rice, flakes (Common)|Shira (Kh.)"
+P029,Atule mate (Sci.)|Kiriyan (Common)
+C026,"AvaAkulu (Tel.)|Brassica juncea (Sci.)|Kadugu ila (Mal.)|Kadugu ilai (Tam.)|Mochari -chi pan (Mar.)|Mustard, leaves (Common)|Raayo ko Saag (N.)|Sarasava pandada (G.)|Saro da sag (P.)|Sarson ka sag (H.)|Sarson ka saga (O.)|Sarson ki patta (U.)|Sasuve yele (Kan.)|Sorisa sag (B.)|Tyrso (Kh.)"
+B007,"Avar (Mal.)|Avare (Kan.)|Baragudi (O.)|Chikkudu ginjalu (Tel.)|Field bean, black (Common)|Moang (Kash.)|Mochai (Tam.)|Papta (Mar.)|Phaseolus vulgaris (Sci.)|Sem (H.)|Sem dal (P.)|Shim (B.)|Symbai ri iong (Kh.)|Urohi guti (A.)|Valpapdi (G.)"
+B008,"Avar (Mal.)|Avare (Kan.)|Baragudi (O.)|Chikkudu ginjalu (Tel.)|Field bean, brown (Common)|Moang (Kash.)|Mochai (Tam.)|Papta (Mar.)|Phaseolus vulgaris (Sci.)|Sem (H.)|Shim (B.)|Symbai ri saw (Kh.)|Urohi guti (A.)|Valpapdi (G.)"
+B009,"Avar (Mal.)|Avare (Kan.)|Baragudi (O.)|Chikkudu ginjalu (Tel.)|Field bean, white (Common)|Moang (Kash.)|Mochai (Tam.)|Papta (Mar.)|Phaseolus vulgaris (Sci.)|Sem (H.)|Shim (B.)|Symbai riLieh (Kh.)|Urohi guti (A.)|Valpapdi (G.)"
+D047,"Avar (Mal.)|Avare (Kan.)|Baragudi (O.)|Chikkudu ginjalu (Tel.)|Field beans, tender, broad (Common)|Papta (Mar.)|Phaseolus vulgaris (Sci.)|Ri majai (Kh.)|Sem (H.)|Sem ki palli (U.)|Shim (B.)|Urohi (A.)|Valpapdi (G.)|Vidaiavarai (Tam.)"
+D048,"Avar (Mal.)|Avare (Kan.)|Baragudi (O.)|Chikkudu ginjalu (Tel.)|Field beans, tender, Lean (Common)|Papta (Mar.)|Phaseolus vulgaris (Sci.)|Ri majai (Kh.)|Sem (H.)|Sem ki palli (U.)|Shim (B.)|Urohi (A.)|Valpapdi (G.)|Vidaiavarai (Tam.)"
+G027,Avithri (H.)|Mace (Common)|Myristica fragrans (Sci.)
+G016,"Awathabi Amunba (M.)|Baabari (N.)|Mentha spicata (Sci.)|Mint leaves (Common)|Phudino (G.)|Podina (A.)|Pudina (B.,H.,Kan.,Kh., Mal., Mar.,P.,Tam.,Tel.,U.)|Pudina Patra (O.)|Pudinth (Kash.)"
+A003,"Baajra (A.)|Baajra (Kash.)|Bajara (N.)|Bajra (Common,B., H., Mar., O., P., U.)|Bajri (G.)|Kambam (Mal.)|Kambu (Tam.)|Krai (Kh.)|Pennisetum typhoideum (Sci.)|Sajjalu (Tel.)|Sajje (Kan.)"
+D002,"Baans (H., P.)|Bahgaj (A.)|Baimbale, Kanile (Kan.)|Baimbale, Kanile (Kan.)|Bamboo shoot, tender (Common)|Bambusa vulgaris (Sci.)|Bansber ankur (B.)|Bhet kiLakdi (O.,U.)|Kalkipan (Mar.)|Kalung siej (Kh.)|Lilo vans (G.)|Moongil kuruthu (Tam.)|Mulankoombu (Mal.)|Soidon (M.)|Veduru chiguru (Tel.)"
+A004,"Baarli Arisi (Tam.)|Barley (Common,B., Kan., Mal.,Tel.,A.)|Krai (Kh.)|Sath (Mar.)|Wushke (Kash.)|Yava (S.)"
+E065,"Bacchanga (Kon.)|Citrullus vulgaris (Sci.)|Darbusani (Tam.)|Dawana (P.)|Kalingad (Mar.)|Kallangadi (Kan.)|Kharbuja (N.)|Puchakaya (Tel.)|Soh watermelon (Kh.)|Tadbuj (G.)|Tarbuj (H.,M.,U.)|Tarbuj (M.)|Tarmuj (B.)|Tarvuja (O.)|Thannir mathan (Mal.)|Tormuj (A.)|Water melon, dark green, sugar baby (Common)"
+E066,"Bacchanga (Kon.)|Citrullus vulgaris (Sci.)|Darbusani (Tam.)|Dawana (P.)|Kalingad (Mar.)|Kallangadi (Kan.)|Kharbuja (N.)|Puchakaya (Tel.)|Soh watermelon (Kh.)|Tadbuj (G.)|Tarbuj (H.,M.,U.)|Tarmuj (B.)|Tarvuja (O.)|Thannir mathan (Mal.)|Tormuj (A.)|Water melon, pale green (Common)"
+C007,"Bachhali (Tel.)|Basale soppu (Kan.)|Basella alba (Sci.)|Basella, leaves (Common)|Kodippasali (Tam.)|Mayalu (Mar.)|Paalak (P.)|Palak (H.,Kash., M., Mar.,P.,U.)|Poi ni bhaji (G.)|Poi saaga (O.)|Pui shaak (B.)|Puroi sak (A.)|Sla palong dkhar (Kh.)|Vallicheera (Mal.)"
+D010,Badane (Kan.)|Baigan (O.)|Baigan (P.)|Baigan (U.)|Baingan (H.)|Begun (B.)|Bengena (A.)|Bhantaa (N.)|Brinjal (Common)|Kathirikkai (Tam.)|Lam Khamen (M.)|Ringna (G.)|Sohbaingon jyrngam (Kh.)|Solanum melongena (Sci.)|Vange (Mar.)|Vaṅkaya (Tel.)|Vazhuthiniga (Mal.)|Vruntaakam (S.)|Wagun (Kash.)
+D011,Badane (Kan.)|Baigan (O.)|Baigan (P.)|Baigan (U.)|Baingan (H.)|Begun (B.)|Bengena (A.)|Bhantaa (N.)|Brinjal (Common)|Kathirikkai (Tam.)|Lam Khamen (M.)|Ringna (G.)|Sohbaingon jyrngam (Kh.)|Solanum melongena (Sci.)|Vange (Mar.)|Vaṅkaya (Tel.)|Vazhuthiniga (Mal.)|Vruntaakam (S.)|Wagun (Kash.)
+D012,Badane (Kan.)|Baigan (O.)|Baigan (P.)|Baigan (U.)|Baingan (H.)|Begun (B.)|Bengena (A.)|Bhantaa (N.)|Brinjal (Common)|Kathirikkai (Tam.)|Lam Khamen (M.)|Ringna (G.)|Sohbaingon jyrngam (Kh.)|Solanum melongena (Sci.)|Vange (Mar.)|Vaṅkaya (Tel.)|Vazhuthiniga (Mal.)|Vruntaakam (S.)|Wagun (Kash.)
+D013,Badane (Kan.)|Baigan (O.)|Baigan (P.)|Baigan (U.)|Baingan (H.)|Begun (B.)|Bengena (A.)|Bhantaa (N.)|Brinjal (Common)|Kathirikkai (Tam.)|Lam Khamen (M.)|Ringna (G.)|Sohbaingon jyrngam (Kh.)|Solanum melongena (Sci.)|Vange (Mar.)|Vaṅkaya (Tel.)|Vazhuthiniga (Mal.)|Vruntaakam (S.)|Wagun (Kash.)
+D014,Badane (Kan.)|Baigan (O.)|Baigan (P.)|Baigan (U.)|Baingan (H.)|Begun (B.)|Bengena (A.)|Bhantaa (N.)|Brinjal (Common)|Kathirikkai (Tam.)|Lam Khamen (M.)|Ringna (G.)|Sohbaingon jyrngam (Kh.)|Solanum melongena (Sci.)|Vange (Mar.)|Vaṅkaya (Tel.)|Vazhuthiniga (Mal.)|Vruntaakam (S.)|Wagun (Kash.)
+D015,Badane (Kan.)|Baigan (O.)|Baigan (P.)|Baigan (U.)|Baingan (H.)|Begun (B.)|Bengena (A.)|Bhantaa (N.)|Brinjal (Common)|Kathirikkai (Tam.)|Lam Khamen (M.)|Ringna (G.)|Sohbaingon jyrngam (Kh.)|Solanum melongena (Sci.)|Vange (Mar.)|Vaṅkaya (Tel.)|Vazhuthiniga (Mal.)|Vruntaakam (S.)|Wagun (Kash.)
+D016,Badane (Kan.)|Baigan (O.)|Baigan (P.)|Baigan (U.)|Baingan (H.)|Begun (B.)|Bengena (A.)|Bhantaa (N.)|Brinjal (Common)|Kathirikkai (Tam.)|Lam Khamen (M.)|Ringna (G.)|Sohbaingon jyrngam (Kh.)|Solanum melongena (Sci.)|Vange (Mar.)|Vaṅkaya (Tel.)|Vazhuthiniga (Mal.)|Vruntaakam (S.)|Wagun (Kash.)
+D017,Badane (Kan.)|Baigan (O.)|Baigan (P.)|Baigan (U.)|Baingan (H.)|Begun (B.)|Bengena (A.)|Bhantaa (N.)|Brinjal (Common)|Kathirikkai (Tam.)|Lam Khamen (M.)|Ringna (G.)|Sohbaingon jyrngam (Kh.)|Solanum melongena (Sci.)|Vange (Mar.)|Vaṅkaya (Tel.)|Vazhuthiniga (Mal.)|Vruntaakam (S.)|Wagun (Kash.)
+D018,Badane (Kan.)|Baigan (O.)|Baigan (P.)|Baigan (U.)|Baingan (H.)|Begun (B.)|Bengena (A.)|Bhantaa (N.)|Brinjal (Common)|Kathirikkai (Tam.)|Lam Khamen (M.)|Ringna (G.)|Sohbaingon jyrngam (Kh.)|Solanum melongena (Sci.)|Vange (Mar.)|Vaṅkaya (Tel.)|Vazhuthiniga (Mal.)|Vruntaakam (S.)|Wagun (Kash.)
+D019,Badane (Kan.)|Baigan (O.)|Baigan (P.)|Baigan (U.)|Baingan (H.)|Begun (B.)|Bengena (A.)|Bhantaa (N.)|Brinjal (Common)|Kathirikkai (Tam.)|Lam Khamen (M.)|Ringna (G.)|Sohbaingon jyrngam (Kh.)|Solanum melongena (Sci.)|Vange (Mar.)|Vaṅkaya (Tel.)|Vazhuthiniga (Mal.)|Vruntaakam (S.)|Wagun (Kash.)
+D020,Badane (Kan.)|Baigan (O.)|Baigan (P.)|Baigan (U.)|Baingan (H.)|Begun (B.)|Bengena (A.)|Bhantaa (N.)|Brinjal (Common)|Kathirikkai (Tam.)|Lam Khamen (M.)|Ringna (G.)|Sohbaingon jyrngam (Kh.)|Solanum melongena (Sci.)|Vange (Mar.)|Vaṅkaya (Tel.)|Vazhuthiniga (Mal.)|Vruntaakam (S.)|Wagun (Kash.)
+D021,Badane (Kan.)|Baigan (O.)|Baigan (P.)|Baigan (U.)|Baingan (H.)|Begun (B.)|Bengena (A.)|Bhantaa (N.)|Brinjal (Common)|Kathirikkai (Tam.)|Lam Khamen (M.)|Ringna (G.)|Sohbaingon jyrngam (Kh.)|Solanum melongena (Sci.)|Vange (Mar.)|Vaṅkaya (Tel.)|Vazhuthiniga (Mal.)|Vruntaakam (S.)|Wagun (Kash.)
+D022,Badane (Kan.)|Baigan (O.)|Baigan (P.)|Baigan (U.)|Baingan (H.)|Begun (B.)|Bengena (A.)|Bhantaa (N.)|Brinjal (Common)|Kathirikkai (Tam.)|Lam Khamen (M.)|Ringna (G.)|Sohbaingon jyrngam (Kh.)|Solanum melongena (Sci.)|Vange (Mar.)|Vaṅkaya (Tel.)|Vazhuthiniga (Mal.)|Vruntaakam (S.)|Wagun (Kash.)
+D023,Badane (Kan.)|Baigan (O.)|Baigan (P.)|Baigan (U.)|Baingan (H.)|Begun (B.)|Bengena (A.)|Bhantaa (N.)|Brinjal (Common)|Kathirikkai (Tam.)|Lam Khamen (M.)|Ringna (G.)|Sohbaingon jyrngam (Kh.)|Solanum melongena (Sci.)|Vange (Mar.)|Vaṅkaya (Tel.)|Vazhuthiniga (Mal.)|Vruntaakam (S.)|Wagun (Kash.)
+D024,Badane (Kan.)|Baigan (O.)|Baigan (P.)|Baigan (U.)|Baingan (H.)|Begun (B.)|Bengena (A.)|Bhantaa (N.)|Brinjal (Common)|Kathirikkai (Tam.)|Lam Khamen (M.)|Ringna (G.)|Sohbaingon jyrngam (Kh.)|Solanum melongena (Sci.)|Vange (Mar.)|Vaṅkaya (Tel.)|Vazhuthiniga (Mal.)|Vruntaakam (S.)|Wagun (Kash.)
+D025,Badane (Kan.)|Baigan (O.)|Baigan (P.)|Baigan (U.)|Baingan (H.)|Begun (B.)|Bengena (A.)|Bhantaa (N.)|Brinjal (Common)|Kathirikkai (Tam.)|Lam Khamen (M.)|Ringna (G.)|Sohbaingon jyrngam (Kh.)|Solanum melongena (Sci.)|Vange (Mar.)|Vaṅkaya (Tel.)|Vazhuthiniga (Mal.)|Vruntaakam (S.)|Wagun (Kash.)
+D026,Badane (Kan.)|Baigan (O.)|Baigan (P.)|Baigan (U.)|Baingan (H.)|Begun (B.)|Bengena (A.)|Bhantaa (N.)|Brinjal (Common)|Kathirikkai (Tam.)|Lam Khamen (M.)|Ringna (G.)|Sohbaingon jyrngam (Kh.)|Solanum melongena (Sci.)|Vange (Mar.)|Vaṅkaya (Tel.)|Vazhuthiniga (Mal.)|Vruntaakam (S.)|Wagun (Kash.)
+D027,Badane (Kan.)|Baigan (O.)|Baigan (P.)|Baigan (U.)|Baingan (H.)|Begun (B.)|Bengena (A.)|Bhantaa (N.)|Brinjal (Common)|Kathirikkai (Tam.)|Lam Khamen (M.)|Ringna (G.)|Sohbaingon jyrngam (Kh.)|Solanum melongena (Sci.)|Vange (Mar.)|Vaṅkaya (Tel.)|Vazhuthiniga (Mal.)|Vruntaakam (S.)|Wagun (Kash.)
+D028,Badane (Kan.)|Baigan (O.)|Baigan (P.)|Baigan (U.)|Baingan (H.)|Begun (B.)|Bengena (A.)|Bhantaa (N.)|Brinjal (Common)|Kathirikkai (Tam.)|Lam Khamen (M.)|Ringna (G.)|Sohbaingon jyrngam (Kh.)|Solanum melongena (Sci.)|Vange (Mar.)|Vaṅkaya (Tel.)|Vazhuthiniga (Mal.)|Vruntaakam (S.)|Wagun (Kash.)
+D029,Badane (Kan.)|Baigan (O.)|Baigan (P.)|Baigan (U.)|Baingan (H.)|Begun (B.)|Bengena (A.)|Bhantaa (N.)|Brinjal (Common)|Kathirikkai (Tam.)|Lam Khamen (M.)|Ringna (G.)|Sohbaingon jyrngam (Kh.)|Solanum melongena (Sci.)|Vange (Mar.)|Vaṅkaya (Tel.)|Vazhuthiniga (Mal.)|Vruntaakam (S.)|Wagun (Kash.)
+E068,"Badarii (S.)|Barakoli (O.)|Ber (G.,H.,U.)|Beri (P.)|Bogori (A.)|Bor (Kon.,Mar.)|Brey (Kash.)|Elanth pazham (Mal.)|Elanthai pazham (Tam.)|Kula (B.)|Regu pandu (Tel.)|Soh broi heh (Kh.)|Yelachi (Kan.)|Zizyphus (Common)|Zizyphus jujuba (Sci.)"
+C015,"Badha kopi (B.)|Banda kovi (N.)|Bandh (Kash.)|Bandha kobi (O.)|Bondhakobi (A.)|Brassica oleracea var capitata falba (Sci.)|Cabbage, green (Common)|Gobhi (U.)|Gos koora (Tel.)|Kash bandh gobi (H.)|Kobi (Mar.)|Kobi mana (M.)|Kosu (A.,Kan.)|Kubi (Kh.)|Lili kobi (G.)|Muttaikose (Tam.)|Muttu gose (Mal.)|Patta gobhi (P.)|Shaakaprabhedah (S.)"
+C016,"Badha kopi (B.)|Banda kovi (N.)|bandh gobi (H.,Kash.)|Bandha kopee (O.)|Bondhakobi (A.)|Brassica oleracea var capitata frubra (Sci.)|Cabbage, violet (Common)|Gobhi (U.)|Gos koora (Tel.)|Kobi (Mar.)|Kosu (A.,Kan.)|Kosu (Kan.)|Kubi saw (Kh.)|Lal kobi (G.)|Muttaikose (Tam.)|Muttu gose (Mal.)|Patta gobhi (P.)|Shaakaprabhedah (S.)"
+A014,"Bafela Chokha (G.)|BigaHua chawal (P.)|Cheng (M.)|Khaw boil (Kh.)|Kusubalakki (Kan.)|Oryza sativa (Sci.)|Puzhungal ari (Mal.)|Puzhungal arisi (Tam.)|Rice, par boiled, milled (Common)|Siddha chowl (B.)|Tomul (Kash.)|Ukadla tandool (Mar.)|Ukhua chaul (A.)|Uppudu biyyam (Tel.)|Usna chawal (H.)|Usuna chaula (O.)"
+E044,Bakhai ambli Vilayabi ambli (G.)|Ganga imli Jangal jalebi (H.)|Kodukkapuli (Tam.)|Mange (M.)|Manila tamarind (Common)|Pithecellobium dulce (Sci.)|Seema chintakaya (Tel.)|Seema dora hunase (Kan.)|Soh kyntoi im (Kh.)|Vilayatichinch (Mar.)
+D049,"Bakla (H.)|Beans (Mal.,O.,U.)|Fansi (G.)|Fras bean (P.)|French bean (A.)|French beans, country (Common)|Ghiu Simi (N.)|Pharasebee (Mar.)|Phaseolus vulgaris (Sci.)|Presbin phyrngop (Kh.)|Sannachikkudu (Tel.)|Vidaiavarai (Tam.)"
+D050,"Bakla (H.)|Beans (Mal.,O.,U.)|Fansi (G.)|Fras bean (P.)|French bean (A.)|French beans, hybrid (Common)|Ghiu Simi (N.)|Pharasebee (Mar.)|Phaseolus vulgaris (Sci.)|Presbin (Kh.)|Sannachikkudu (Tel.)|Vidaiavarai (Tam.)"
+B012,"Bakulla (N.)|Dolicus biflorus (Sci.)|Kolatha (O.)|Kollu (Tam.)|Kulattha (S.)|Kuleeth (G.,Mar.)|Kulottokalai (B.)|Kulthi (H.,U.)|Kurath (Kash.)|Muthira (Mal.)|Ulavalu (Tel.)"
+E032,"Balalak, dindimi (H.)|Carissa carandas (Sci.)|Kalakkay Parungala (Tam.)|Kalive (Tel.)|Karakka (Mal.)|Karamazda (S.)|Karamda (G.)|Karekayi (Kan.)|Karonda (P.)|Karonda fruit (Common)|Karvand (Mar.)|Korja tenga (A.)|Koromcha (B.)|Sushena (O.)"
+C013,"Bandh (Kash.)|Brassica rupa (Sci.)|Cabbage, Chinese (Common)|ChinaLai (A.)|Chinese kobi (G.)|Salat chaina (Kh.)"
+C014,"Bandh (Kash.)|Brassica oleracea var viridis (Sci.)|Cabbage, collard greens (Common)|Kobi na pan (G.)|Seemai parattai keerai (Tam.)|Sla kubi (Kh.)"
+B018,"Barbati beej (B.)|Barigalu (Tel.)|Kale rajmah (P.)|Karamani Payir (Tam.)|Makussttaka (S.)|Phansi/Kadi (G.)|Phaseolus vulgaris (Sci.)|Rajma (N.,U.)|Rajma heh (Kh.)|Rajmah (A.,H.,M.,Mal.)|Rajmah, black (Common)|Razma (Kash.)|Shravangheveda (Mar.)|Thugare bele (Kan.)"
+B019,"Barbati beej (B.)|Barigalu (Tel.)|Bhoore rajmah (P.)|Karamani Payir (Tam.)|Makussttaka (S.)|Phansi/Gulabi (G.)|Phaseolus vulgaris (Sci.)|Rajma (N.,U.)|Rajma lieh (Kh.)|Rajmah (A.,H.,M.,Mal.)|Rajmah, brown (Common)|Razma (Kash.)|Shravangheveda (Mar.)|Thugare bele (Kan.)"
+B020,"Barbati beej (B.)|Barigalu (Tel.)|Karamani Payir (Tam.)|Lal rajmah (P.)|Makussttaka (S.)|Phansi/lal (G.)|Phaseolus vulgaris (Sci.)|Rajma (N.,U.)|Rajma rit (Kh.)|Rajmah (A.,H.,M.,Mal.)|Rajmah, red (Common)|Razma (Kash.)|Shravangheveda (Mar.)|Thugare bele (Kan.)"
+C033,"Basala cheera (Mal.)|Paalungo ko Saag (N.)|Palak (H.,Kash., M., Mar.,P.,U.)|Palak ni bhaji (G.)|Palakoora (Tel.)|Palang sag (O.)|Paleng (A.)|Palong heh (Kh.)|Palong shak (B.)|Pasalai keerai (Tam.)|Spinach (Common)|Spinacia oleracea (Sci.)|Spinak soppu (Kan.)"
+E056,"Batabilembu (B.)|Batapilembu (O.)|Bombilimas (Mal. ,Tam.)|Chakkota (Kan.)|Chakotra (H.)|Citrus maxima (Sci.)|Nobab (M.)|Pampara Panasa (Tel.)|Papnus (Mar.)|Papnuse (G.)|Pummelo (Common)|Rabab tenga (A.)|Soh bah (Kh.)"
+B017,"Batani (Kan.,Tel.)|Gota motor (A.)|Kaza (Kash.)|Matar (B.,H.,Kash.)|Matara (O.)|Pattani (Mal.,Tam.)|Peas, dry (Common)|Pisum sativum (Sci.)|Shana mator (Kh.)|Sukha vatana (G.)|Sukhe hare matar dal (P.)|Sukhi matar (H.)"
+D061,"Batani (Kan.,Tel.)|Matar (B.,H.,Kash.)|Matar mah (A.)|Matara (O.)|Mator (Kh.)|Motor shuti (B.)|Pattani (Mal.,Tam.)|Peas, fresh (Common)|Pisum sativum (Sci.)|Vatana (G., Mar)"
+C008,"Bathu sag (P.)|Bathua leaves (Common)|Bathua sag (O.,H.)|Bethe kosaag (N.)|Beto sak (B.)|Chakavath (Mar.)|Chenopodium album (Sci.)|Chilni bhaji (G.)|Monsaobi (M.)|Pappukura (Tel.)|Parippuchira (Mal.)|Paruppukkeerai (Tam.)|Sakothina soppu (Kan.)|Sla jada (Kh.)|Ushtahak (Kash.)"
+A010,"Bavato (G.)|Bhakri (Kan.,Mar.)|Eleusine coracana (Sci.)|Kelvaragu (Tam.)|Kodo (N.)|Madhulika (S.)|Mandal (P.)|Mandia (O.)|Mandwa (U.)|Panjapulle (Mal.)|Ragi (Common,A.,B., H.,Tel.)|Ukrai (Kh.)"
+H015,"Bazar -Bhang (Kash.)|Guizotia abyssinica (Sci.)|Gurellu (Kan.)|Kada tal (G.)|Kala til (H.)|Karale (Mar.)|Karim jeerakam (Mal.)|Kattelu (Tam.)|Niger seeds, black (Common)|Ram til (B.)|Sorguja (A.)|Valasulu (Tel.)"
+H016,"Bazar -Bhang (Kash.)|Guizotia abyssinica (Sci.)|Gurellu (Kan.)|Kala til (H.)|Karale (Mar.)|Karim jeerakam (Mal.)|Kattelu (Tam.)|Niger seeds, grey (Common)|Ram til (B.)|Sorguja (A.)|Tal (G.)|Valasulu (Tel.)"
+E067,"Beal (U.)|Bel (A.)|Bele (Kan.)|Bilvaon/Gorakamli (S.)|Bum choont (Kash.)|Chaktora (P.)|Kaith (H.)|Kaitha (O.)|Kavath (Mar.)|Kothu (G.)|KoyethbAel (B.)|Limonia acidissima (Sci.)|Velega pandu (Tel.)|Vilam pazham (Mal.,Tam.)|Wood apple (Common)"
+D003,"Bean scarlet, tender (Common)|Chodi (G.)|Lesera mah (A.)|Phaseolus coccineus (Sci.)|Sem (H.)|Sem fali (P.)|U buri (Kh.)"
+O025,Beef (Common)
+O026,Beef (Common)
+O027,Beef (Common)
+O028,Beef (Common)
+O029,Beef (Common)
+O030,Beef (Common)
+O031,Beef (Common)
+O032,Beef (Common)
+O033,Beef (Common)
+O034,Beef (Common)
+O035,Beef (Common)
+D068,"Beera kaya (Tel.)|Dodka (Mar.)|Gurdudde (Kon.)|Kali tori (P.)|Kismis (A.,M.,N.)|Luffa acutangula (Sci.)|Peechinga (Mal.)|Peerkankai (Tam.)|Ridge gourd (Common)|Torai (H.)|Turai (U.)|Turia (G.)|Turrel (Kash.)"
+D069,"Beera kaya (Tel.)|Bhol (A.)|Dodka (Mar.)|Gurdudde (Kon.)|Kali tori (P.)|Luffa acutangula (Sci.)|Peechinga (Mal.)|Peerkankai (Tam.)|Ridge gourd, smooth skin (Common)|Sebot (M.)|Torai (H.)|Turai (U.)|Turia (G.)|Turrel (Kash.)"
+F001,"Beet (A.,B.,G.,Kan.)|Beet root (Common,Mal., Mar., Tam.,Tel.)|Beta vulgaris (Sci.)|Bita (O.)|Chogander Munji (Kash.)|Chokhandar (U.)|Chukandar (H.,P.)|U bit (Kh.)"
+C009,"Beet ni bhaji (G.)|Beet patta (U.)|Beet root (Tel.)|Beet root cheera (Mal.)|Beet root ka sag (Mar.)|Beet root keerai (Tam.)|Beet root soppu (Kan.)|Beet root, leaves (Common)|Beetar sak (A.)|Bengali Palungo ko Saag (N.)|Beta vulgaris (Sci.)|Chogander Munji (Kash.)|Chukandhar da sag (P.)|Chukandhar sag (H.)|Sla bit (Kh.)"
+H020,"Beli phular guti (A.)|Numitlei Maru (M.)|Podduthirugidi Puvvu ginzalu (Tel.)|Sryakānti bījagalu (Kan.)|Sunflower seeds (Common)|Suraj mukhi (B.,P.)|Suraj mukhi na bee (G.)|Surjya Mukhi Manji (O.)|Surya mukhi (H.,Mar.)|Suryakanthi (Mal.)|Suryakanthi vidhai (Tam.)|Symbai tiew sngi (Kh.)"
+B001,"Bengal gram, dal (Common)|Boot dail (A.)|Chana ko Dal (N.)|Chana Tangkhai (M.)|Chana -ni-daad (G.)|Chane ki dal (U.)|Chan -ki-dal (H.)|Channa dali/Buta dali (O.)|Chanu dal (Kash.)|Cholar dal (B.)|Cicer arietinum (Sci.)|Dai shana (Kh.)|Kadala parippu (Mal.)|Kadalaiparuppu (Tam.)|Kadale bele (Kan.)|Sanaga papu (Tel.)|Sholedi dal (P.)"
+B002,"Bengal gram, whole (Common)|Boot (A.)|Buta (O.)|Chana (G.,H.,U.)|Chana Mapum (M.)|Chanak (S.)|Chanu (Kash.)|Chola (B.)|Cicer arietinum (Sci.)|Kabuli Chana (N.)|Kadala (Mal.)|Kadale (Kan.)|Kondaikadalai (Tam.)|Sanagalu (Tel.)|Shana kulai (Kh.)|Shole (P.)"
+E051,"Berikai (Kan.)|Berikaya (Tel.)|Berikkai (Tam.)|Nashpati (B.,H., Mar.,O.,P.,U.)|Nashpatino (G.)|Naspati (M.,N.)|Naspoti (A.)|Pear (Common)|Prunus persica (Sci.)|Sabarjil (Mal.)|Soh phoh (Kh.)|Tang (Kash.)"
+P077,Berycidae beryx (Sci.)|Silk fish (Common)
+C010,"Betel leaves, big, Kolkatta (Common)|Kadale soppu (Kan.)|Kwa Mana (M.)|Nagarvelna pan (G.)|Paan (A.,M.)|Paan ka patta (U.)|Pan (B.)|Pan ka patha (H.)|Pana (O.)|Pan-da-patta (P.)|Pan-ka-Patta (Mar.)|Piper betle (Sci.)|Thamala paku (Tel.)|Tympew Dkhar (Kh.)|Vetrilai (Tam.)|Vettiiai (Mal.)"
+C011,"Betel leaves, small (Common)|Kadale soppu (Kan.)|Kwa Mana (M.)|Nagarvelna pan (G.)|Paan (A.,M.)|Paan ka patta (U.)|Pan (B.)|Pan ka patha (H.)|Pana (O.)|Pan-da-patta (P.)|Pan-ka-Patta (Mar.)|Piper betle (Sci.)|Thamala paku (Tel.)|Tympew (Kh.)|Vetrilai (Tam.)|Vettiiai (Mal.)"
+P005,Betki (Common)|Lates calcarifer (Sci.)
+L001,"Bhains ka dhood (H.)|Bhes nu dhudh (G.)|Doodh (Kash.)|Doodh/Maish (Mar.)|Dud muid (Kh.)|Dudha/Mosher (B.)|Eroi Sanghom (M.)|Erumaipal (Tam.)|Gedha Barre palu (Tel.)|Kerbau paal (Mal.)|Mainsi dudha (O.)|Maz da doodh (P.)|Milk, Buffalo (Common)|Mohor gakhir (A.)|Uemma halu (Kan.)"
+B024,"Bhatmas (H.,N.)|Garikalai (B.)|Glycine max (Sci.)|Muth (Kash.)|Nunghawai (M.)|Soya (U.)|Soya bean (A.,G.,Kan., Mal., Mar.,O.,Tam.,Tel.)|Soya bean dal (P.)|Soya bean, brown (Common)|Toh rymbai (Kh.)"
+B025,"Bhatmas (H.,N.)|Garikalai (B.)|Glycine max (Sci.)|Muth (Kash.)|Nunghawai (M.)|Soya (U.)|Soya bean (A.,G.,Kan., Mal., Mar.,O.,Tam.,Tel.)|Soya bean dal (P.)|Soya bean, white (Common)|Toh rymbai (Kh.)"
+B016,"Bhiopnitam (P.)|Kheri (B.)|Math (G.,Mar.)|Matki (Mar.)|Matki Kal (Kan.)|Moth bean (Common)|Moth dal (P.)|Motha (H.)|Narippayir (Tam.)|Rymbai (Kh.)|Vigna aconitifolia (Sci.)"
+A024,"Bhooni sevian (P.)|Ghaun ni Shekeli sev (G.)|Gom sewai (A.)|Semai (B.)|Semiya (Mal., Tam., Tel., U.)|Sewai saw (Kh.)|Sewian (Kash.)|Shevige (Kan.)|Simai (O.)|Siwain (H.)|Siwain (Mar.)|Triticum aestivum (Sci.)|Wheat, vermicelli, roasted (Common)"
+D033,"Bhoplimirchi (Mar.)|Bhuler marcha (G.)|Capsicum annum (Sci.)|Capsicum annum (Sci.)|Capsicum, green (Common)|Donnmena - sinakayi (Kan.)|Kashmiri jalakia (A.)|Koda milagai (Tam.)|Lanka/bilathi (B.)|Shimla lanka (O.)|Shimla marchwangan (Kash.)|Shimla mirch (H.)|Shimla mirchi (Tel.,U.)|Shimle -di-mirchi (P.)|Sohmynken jhur jyrngam (Kh.)|Undamulagu (Mal.)"
+D034,"Bhoplimirchi (Mar.)|Bhuler marcha (G.)|Capsicum, red (Common)|Donnmena - sinakayi (Kan.)|Kashmiri jalakia (A.)|Koda milagai (Tam.)|Lanka/bilathi (B.)|Shimla lanka (O.)|Shimla marchwangan (Kash.)|Shimla mirch (H.)|Shimla mirchi (Tel.,U.)|Shimle -di-mirchi (P.)|Sohmynken jhur jyrngam (Kh.)|Undamulagu (Mal.)"
+D035,"Bhoplimirchi (Mar.)|Bhuler marcha (G.)|Capsicum annum (Sci.)|Capsicum, yellow (Common)|Donnmena - sinakayi (Kan.)|Kashmiri jalakia (A.)|Koda milagai (Tam.)|Lanka/bilathi (B.)|Shimla lanka (O.)|Shimla marchwangan (Kash.)|Shimla mirch (H.)|Shimla mirchi (Tel.,U.)|Shimle -di-mirchi (P.)|Sohmynken jhur stem (Kh.)|Undamulagu (Mal.)"
+G010,"Bhursanga Patra (O.)|Curry leaves (Common)|Curry Pata (M.,Kash.)|Gandhela (H.,Mar.)|Girinimba (S.)|Kadhi patta (P.)|Kadi ka patta (U.)|Kadi umdo (G.)|Karhi -pat (B.)|Karibevu (Kan.)|Karivepaku (Tel.)|Kariveppilai (Mal.,Tam.)|Kary patta (N.)|Murraya koenigii (Sci.)|Narasingha paat (A.)|Sla Kori (Kh.)"
+A006,"Bhutta (B.)|Chhali (P.)|Chujaak (M.)|Maize (Mal.)|Maize, dry (Common)|Maka (Mar.,O.)|Makai (G.,Kash.,N.,U.)|Makka (H.)|Makka Cholam (Tam.)|Makoi (A.)|Mekke jola (Kan.)|Mokkajonna (Tel.)|Sukha makai (N.)|Symbai riewhadem stem (Kh.)|Yaavanaala (S.)|Zea mays (Sci.)"
+A007,"Bhutta (B.)|Chhali (P.)|Chujaak (M.)|Lili makai (G.)|Maize (Mal.)|Maize, tender, local (Common)|Maka (Mar.,O.)|Makai (G.,Kash.,N.,U.)|Makka (H.)|Makka Cholam (Tam.)|Makoi (A.)|Mekke jola (Kan.)|Mokkajonna (Tel.)|Riewhadem Stem (Kh.)|Zea mays (Sci.)"
+A008,"Bhutta (B.)|Chhali (P.)|Chujaak (M.)|Lili makai (G.)|Maize (Mal.)|Maize, tender, sweet (Common)|Maka (Mar.,O.)|Makai (G.,Kash.,N.,U.)|Makka (H.)|Makka Cholam (Tam.)|Makoi (A.)|Mekke jola (Kan.)|Mokkajonna (Tel.)|Riewhadem Lieh (Kh.)|Zea mays (Sci.)"
+D074,"BilatiBaigan (O.)|GooreHannu (Kan.)|Kaccha tamatar (U.)|Kaccha tamator (P.)|Kacha Tomato (B.)|Kesa bilahi (A.)|Khamen ashinba (M.)|Ramamulagakaya (Tel.)|Rowagun (Kash.)|Soh saw jyrngam (Kh.)|Solanum lycopersicum (Sci.)|Takkali (Mal.)|Tamator (H.)|Thakkalikkaai (Tam.)|Tomato, green (Common)"
+D075,"BilatiBaigan (O.)|Gholobheda (N.)|GooreHannu (Kan.)|Khamen ashinba (M.)|Pakka tamatar (U.)|Pakke tamator (P.)|Poka bilahi (A.)|Rakta phalam (S.)|Ramamulagakaya (Tel.)|Rowangun (Kash.)|Soh saw dkhar (Kh.)|Solanum lycopersicum (Sci.)|Takkali pazham (Mal. ,Tam.)|Tamator (H.)|Tameta (G.)|Tomato (B.)|Tomato, ripe, hybrid (Common)|Velvangi (Mar.)"
+D076,"BilatiBaigan (O.)|Gholobheda (N.)|GooreHannu (Kan.)|Khamen ashinba (M.)|Pakka tamatar (U.)|Pakke tamator (P.)|Poka bilahi (A.)|Rakta phalam (S.)|Ramamulagakaya (Tel.)|Rowangun (Kash.)|Soh saw khasii (Kh.)|Solanum lycopersicum (Sci.)|Takkali pazham (Mal. ,Tam.)|Tamator (H.)|Tameta (G.)|Tomato (B.)|Tomato, ripe, local (Common)|Velvangi (Mar.)"
+C012,Biliti Bandhakopi (B.)|Brassica oleracea var gemmifera (Sci.)|Brussels sprouts (Common)|Chinna cabbage (Tel.)|Choote gobi (H.)|Chooti band gobi (P.)|Chota bandha (O.)|Chotee gobi (Mar.)|Choti bund gobh (U.)|Kalaikose (Tam.)|Kalakose (Mal.)|Mara kosu (Kan.)|Nani kobi (G.)
+E030,"Bindu (Kash.)|Chakka (Mal.)|Katahar (N.)|Kathahal (U.)|Kothal (A.)|Palapazham (Tam.)|Panasa (O.,S.,Tel.)|Phanas (G.,Mar.)|Soh phan (Kh.)|Theibong (M.)"
+D038,"Biskot (Kh.)|ChoCho sara (Mar.)|Cho-cho-marrow (Common)|Cho-cho-marrow (H.,Kan.,Mal.)|Chow -chow (Tam.)|Dasakusa (M.)|Phuti kakudi (O.)|Sechium edule (Sci.)|Squash (A.)"
+D006,"Bitter gourd, jagged, smooth ridges, elongate (Common)|Kaippakka (Mal.)|Kakarakaya (Tel.)|Kalara (O.)|Karela (G.,H., Kash.,P.,U.)|Karle (Mar.)|Karon Akhabi (M.)|Kerela (A.,Kh.)|Korola (B.)|Momordica charantia (Sci.)|Paavakkai (Tam.)|Tillikaa (S.)|Tite karela (N.)"
+D004,"Bitter gourd, jagged, teeth ridges, elongate (Common)|Kaippakka (Mal.)|Kakarakaya (Tel.)|Kalara (O.)|Karela (G.,H., Kash.,P.,U.)|Karle (Mar.)|Karon Akhabi (M.)|Kerela (A.,Kh.)|KerelaHeh (Kh.)|Korola (B.)|Momordica charantia (Sci.)|Paavakkai (Tam.)|Tillikaa (S.)|Tite karela (N.)"
+D005,"Bitter gourd, jagged, teeth ridges, short (Common)|Kaippakka (Mal.)|Kakarakaya (Tel.)|Kalara (O.)|Karela (G.,H., Kash.,P.,U.)|Karle (Mar.)|Karon Akhabi (M.)|Kerela (A.,Kh.)|Kerela rit (Kh.)|Marela (G.)|Momordica charantia (Sci.)|Paavakkai (Tam.)|Tillikaa (S.)|Tite karela (N.)|Uchhe (B.)"
+E013,Black berry (Common)|Kala Jamun (H.)|Kalojam (B.)|Kola jamu (A.)|Nagapazham (Tam.)|Naval pazham (Mal.)|Neralai (Kan.)|Neredupandu (Tel.)|Rubus sp. (Sci.)|Soh jam Soh jamun (Kh.)
+P006,Black snapper (Common)|Macolor niger (Sci.)
+P007,Bombay duck (Common)|Harpadon nehereus (Sci.)
+P008,Bommuralu (Common)|Muraenesox cinerius (Sci.)
+E048,"Borassus flabellifer (Sci.)|Palm fruit, tender (Common)|Panai nungu (Tam.)|Pnamnungu (Mal.)|Tala Saja (O.)|Tar (H.)|Thati mangu (Kan.)|Thati munjalu (Tel.)"
+D009,"Bottle gourd, elongate, dark green (Common)|Cheranga (Mal.)|Dudhi (G.)|Kadu (P.)|Khongdrum (M.)|Klong jrong (Kh.)|Lagenaria vulgaris (Sci.)|Lau (B.,O.)|Lauka (N.)|Lowki (H., U.)|Pandhara (Mar.)|Sorekai (Kan.)|Sorrakaya (Tel.)|Suraikkai (Tam.)|Zeth aal (Kash.)"
+D007,"Bottle gourd, elongate, pale green (Common)|Cheranga (Mal.)|Dudhi (G.)|Kaarabellam (S.)|Kadu (P.)|Khongdrum (M.)|Lagenaria vulgaris (Sci.)|Lau (B.,O.)|Lauka (N.)|Lowki (H., U.)|Pandhara (Mar.)|Sorekai (Kan.)|Sorrakaya (Tel.)|Suraikkai (Tam.)|U klong (Kh.)|Zeeth aal (Kash.)"
+D008,"Bottle gourd, round, pale green (Common)|Cheranga (Mal.)|Dudhi (G.)|Gool aal (Kash.)|Kdu (P.)|Khongdrum (M.)|Lagenaria vulgaris (Sci.)|Lau (B.,O.)|Lauka (N.)|Lowki (H., U.)|Pandhara (Mar.)|Sorekai (Kan.)|Sorrakaya (Tel.)|Suraikkai (Tam.)|U klong heh (Kh.)"
+C024,"Brassica oleracea (Sci.)|Ganth gobi ka sag (H.)|Ganth gobi sag (P.)|Gath kobi na pan (G.)|Gedde kosu (Kan.)|Knol -khol akulu (Tel.)|Knol -khol cheera (Mal.)|Knol -Khol keerai (Tam.)|Knol -Khol, leaves (Common)|Kobi maru kabi (M.)|Nol khol ka patta (Mar.)|Olkopi sag (B.)|Ool kobi (A.)|Phan Kubi (Kh.)|Salgam ko Saag (N.)|Ulgobi saga (O.)"
+D053,"Brassica oleracea (Sci.)|Ganth gobi (P.)|Gyathkopi (N.)|Knol - Khol (Common)|Knoolkol (Tam.)|Kobi maru kabi (M.)|Kohl -rabi (H.)|Monjh haak (Kash.)|Nol-kol (G.,Mar.)|Noolkol (Tel.,Kan.,Mal.)|Olkopi (B.)|Oolkobi (A.)|Phan Kubi (Kh.)|Ulkobi (O.)"
+C017,"Brassica oleracea var botrytis (Sci.)|Cauliflower (Mal.)|Cauliflower leaves (Common)|Fulawar na pan (G.)|Go puvvu (Tel.)|Gojihvaa (S.)|Kauli (N.)|Kobithamchetmai mana (M.)|Phool gobi di patte (P.)|Phoolgobi panwathir (Kash.)|Phul gobi (H.,Mar.,P.,U.)|Phul gobi patta (H.)|Phul gopi pata (B.)|Phul kobir pat (A.)|Phula Kobi patra (O.)|Pookosu keerai (Tam.)|Sla phul (Kh.)"
+D036,"Brassica oleracea var botrytis (Sci.)|Cauliflower (Common)|Cauliflower (Mal.)|Fulawar (G.)|Go puvvu (Tel.)|Gojihvaa (S.)|Kauli (N.)|Kobithamchetmai (M.)|Phoolgobi (Kash.)|Phul gobi (H.,Mar.,P.,U.)|Phul kobi (A.,O.)|Phul kopi (B.)|Phul kubi (Kh.)|Pookosu (Tam.)"
+C027,Brassica rapa var chinensis (Sci.)|Pak Choi leaves (Common)|Pak choi na pan (G.)
+A021,"Bulgur (Tel.)|Bulgur gahu (Mar.)|Bulgur ghaum (G.)|Bulgur godhi (Kan.)|Dalia (A.,B.,H.,O.,P.,U)|Gau ko pitho (N.)|Godhambu Ravu (Mal.)|Godumai ravai (Tam.)|Kew (Kh.)|Kinek (Kash.)|Triticum aestivum (Sci.)|Wheat, bulgar (Common)"
+O036,Cal (Common)
+O037,Cal (Common)
+O038,Cal (Common)
+O039,Cal (Common)
+O040,Cal (Common)
+O041,Cal (Common)
+O042,Cal (Common)
+O043,Cal (Common)
+O044,Cal (Common)
+P045,Canthidermis maculata (Sci.)|Padayappa (Common)
+G001,"Capsicum annum (Sci.)|Chillies, green (Common)|KanchaLanka (O.)|Kesa jalakia (A.)|Lila marcha (G.)|Marach wangun (Kash.)|Marichika (S.)|Morok (M.)|Mulaku (Mal.,Mar.)|Pacchi Mirapakaya (Tel.)|Pachhai milagai (Tam.)|SohmynkenHeh (Kh.)"
+G002,"Capsicum annum (Sci.)|Chillies, green (Common)|KanchaLanka (O.)|Kesa jalakia (A.)|Lila marcha (G.)|Marach wangun (Kash.)|Marichika (S.)|Morok (M.)|Mulaku (Mal.,Mar.)|Pacchi Mirapakaya (Tel.)|Pachhai milagai (Tam.)|Soh mynken dkhar (Kh.)"
+G003,"Capsicum annum (Sci.)|Chillies, green (Common)|KanchaLanka (O.)|Kesa jalakia (A.)|Lila marcha (G.)|Marach wangun (Kash.)|Marichika (S.)|Morok (M.)|Mulaku (Mal.,Mar.)|Pacchi Mirapakaya (Tel.)|Pachhai milagai (Tam.)|Soh mynken dkhar (Kh.)"
+G004,"Capsicum annum (Sci.)|Chillies, green (Common)|KanchaLanka (O.)|Kesa jalakia (A.)|Marach wangun (Kash.)|Marichika (S.)|Morok (M.)|Mulaku (Mal.,Mar.)|Pacchi Mirapakaya (Tel.)|Pachhai milagai (Tam.)|Soh mynken dkhar (Kh.)"
+G005,"Capsicum annum (Sci.)|Chillies, green (Common)|KanchaLanka (O.)|Kesa jalakia (A.)|Marach wangun (Kash.)|Marichika (S.)|Morok (M.)|Mulaku (Mal.,Mar.)|Pacchi Mirapakaya (Tel.)|Pachhai milagai (Tam.)|Soh mynken dkhar (Kh.)|Vadhvani marcha (G.)"
+G006,"Capsicum annum (Sci.)|Chillies, green (Common)|KanchaLanka (O.)|Kesa jalakia (A.)|Lila marcha (G.)|Marach wangun (Kash.)|Marichika (S.)|Morok (M.)|Mulaku (Mal.,Mar.)|Pacchi Mirapakaya (Tel.)|Pachhai milagai (Tam.)|Soh mynken dkhar (Kh.)"
+G007,"Capsicum annum (Sci.)|Chillies, green (Common)|Gola marcha (G.)|KanchaLanka (O.)|Kesa jalakia (A.)|Marach wangun (Kash.)|Marichika (S.)|Morok (M.)|Mulaku (Mal.,Mar.)|Pacchi Mirapakaya (Tel.)|Pachhai milagai (Tam.)|Soh mynken beb (Kh.)"
+G022,"Capsicum annum (Sci.)|Chillies, red (Common)|Lal marcha/sukha (G.)|Lal mircha (P.)|Lal mirchi (U.)|Lanka (O.)|Mirapakaya (Tel.)|Mirchi (H.)|Morok Akangba (M.)|Mulaku (Mal.,Mar.)|Ona Menasinakayi (Kan.)|Rato Khursani (N.)|Shuckhuo lonka (B.)|Sohmynken trykhong (Kh.)|Sukan jolokia (A.)|Varamilagai (Tam.)"
+P032,Carangoides fulvoguttatus (Sci.)|Kulam paarai (Common)
+P044,Caranx heberi (Sci.)|Paarai (Common)
+P070,Caranx ignobilis (Sci.)|Sankata paarai (Common)
+P043,Caranx sexfasciatus (Sci.)|Narba (Common)
+S004,Carassius auratus (Sci.)|Gold fish (Common)
+P072,Carcharhinus sorrah (Sci.)|Shark (Common)
+F002,"Carrot (Mal.,Tam.)|Carrot, orange (Common)|Dacus carota (Sci.)|Gajar (B.,G.,H.,M., Mar.,N.,P.,U.)|Ghahzir (Kash.)|Grunjanam (S.)|U kajor (Kh.)"
+F003,"Carrot (Mal.,Tam.)|Carrot, red (Common)|Dacus carota (Sci.)|Gajar (B.,G.,H.,M., Mar.,N.,P.,U.)|Ghahzir (Kash.)|Grunjanam (S.)|Kajor (Kh.)"
+H019,"Carthamus tinctorius (Sci.)|Karadi (Mal.,Mar.)|Kardi (H.)|Kusambe (Kan.)|Kusum (B.)|Kusuma ginzalu (Tel.)|Kusumbo (G.)|Safflower seeds (Common)|Sendurkan vidhai (Tam.)|Symbai tiew sngi (Kh.)"
+P009,Cat fish (Common)|Tachysurus thalassinus (Sci.)
+S001,Cat fish (Common)|Tandanus tandanus (Sci.)
+S002,Catla (Common)|Catla catla (Sci.)
+D070,"Chachinda (H.,O.)|Chichinda (U.)|Chichindo (N.)|Chichinga (B.)|Cicinndda (S.)|Dhunduli (A.)|Padavalanga (Mal.)|Padwal (Mar.)|Pandola (G.)|Podavala (Kan.)|Potla kaya (Tel.)|Pudalangai (Tam.)|Snake gourd, long, pale green (Common)|Trichosanthes anguina (Sci.)"
+D071,"Chachinda (H.,O.)|Chichinda (U.)|Chichindo (N.)|Chichinga (B.)|Cicinndda (S.)|Dhunduli (A.)|Padavalanga (Mal.)|Padwal (Mar.)|Pandola (G.)|Podavala (Kan.)|Potla kaya (Tel.)|Pudalangai (Tam.)|Snake gourd, long, dark green (Common)|Trichosanthes anguina (Sci.)"
+D072,"Chachinda (H.,O.)|Chichinda (U.)|Chichindo (N.)|Chichinga (B.)|Cicinndda (S.)|Dhunduli (A.)|Padavalanga (Mal.)|Padwal (Mar.)|Pandola (G.)|Podavala (Kan.)|Potla kaya (Tel.)|Pudalangai (Tam.)|Snake gourd, short (Common)|Trichosanthes anguina (Sci.)"
+P010,Chakla (Common)|Rachycentron canadum (Sci.)
+B023,Chakwai (M.)|Kattuzhunnu (Mal.)|Meth (H.)|Rice Bean (Common)|Rymbai ja (Kh.)|Shiltong (N.)|Vigna umbellata (Sci.)
+A016,"Chama (Mal.)|Ganuhaar (Kash.)|Kuri (G.)|Panicum sumatrense (Sci.)|Sama (B.,Kan.,Tel.)|Samai (Common, Tam.)|Sava (Mar.)|Shavan (H.)|Suan (O.)|Swank (P.)"
+L003,"Chaman (Kash.)|Channa (M.)|Chena (B.)|Chhena (H.,O)|Paalavirugudu (Tel.)|Paladai (Tam.)|Palkatti (Mal.)|Paneer (A.,G.,Kh.,P.)|Panner (Common)|Tali (Kan.)"
+E033,"Champra Mahi (M.)|Citrus limon (Sci.)|Kaagati (N.)|KagajiLimbu (O.)|Lehin (S.)|Lemon, juice (Common)|Limbu (G.)|Neembu (U.)|Nemu (A.)|Nibu (P.)|Nimapandu (Tel.)|Nimbhu (H.)|Nyomb (Kash.)|PatiLebu (B.)|Soh jew (Kh.)"
+P037,Chanos chanos (Sci.)|Milk fish (Common)
+E017,"Chawara (P.)|Chuhara (A.)|Dates, dry, pale brown (Common)|Eethapazham (Mal.)|Khajoora pandu (Tel.)|Khajur (A.,G.,H., Kash., Mar.,P.,U.)|Khajura (N.)|Khajuri (O.)|Kharek (G.)|Kharjoora (Kan.)|Kharjura (B.)|Kharjura (B.,S.)|Pericham pazham (Tam.)|Phoenix dactylifera (Sci.)|Soh khajur (Kh.)|Thangtup (M.)"
+E018,"Chawara (P.)|Chuhara (A.)|Dates, dry, dark brown (Common)|Eethapazham (Mal.)|Khajoora pandu (Tel.)|Khajur (A.,G.,H., Kash., Mar.,P.,U.)|Khajura (N.)|Khajuri (O.)|Kharek (G.)|Kharjoora (Kan.)|Kharjura (B.,S.)|Pericham pazham (Tam.)|Phoenix dactylifera (Sci.)|Soh khajur (Kh.)|Thangtup (M.)"
+F019,"Chedu paddu dumpa (Tel.)|Dioscorea villosa (Sci.)|Kattuchena (Mal.)|KodiKizhangu (Tam.)|Ranga alu (B.)|Ratadu (G.)|Shriew lieh (Kh.)|Suaralu (H.)|Suran (Mar.)|Yam, wild (Common)"
+P012,Chelu (Common)|Elagatis bipinnulata (Sci.)
+P013,Chembali (Common)|Lutjanus quinquelineatus (Sci.)
+A009,Chenopodium quinoa (Sci.)|Quinoa (Common)
+E014,"Cherri pandu (Tel.)|Cherries, red (Common)|Cherry (G.,P.)|Cherry phal (Mar.)|Cherrypazham (Tam.,Mal.)|Gilas (H.,Kash.)|Kaḍugeṃpu (Kan.)|Prunus avium (Sci.)|Soh sherri (Kh.)"
+B011,"Cheru Pararu (Mal.)|Gota mogu mah (A.)|Green gram, whole (Common)|Moog (B.)|Moong (N.,U.)|Muang (Kash.)|Mudra (S.)|Mug (G.)|Muga (O.)|Mun (Mar.)|Mung (H.)|Mung hawai (M.)|Pasipayir (Tam.)|Pesalu (Tel.)|Sabut moong dal (P.)|U dai jyrngam (Kh.)|Vigna radiata (Sci.)"
+B010,"Cheru payar parippu (Mal.)|Dhua mogu dail (A.)|Green gram, dal (Common)|Moong dal (U.)|Moong ko khoste (N.)|Muang dal (Kash.)|Mug dal (H.,Mar.)|Mug ni daad (G.)|Muga Dali (O.)|Mung dal (B.)|Mung hawai (M.)|Mungi -di-dal (P.)|Payatham paruppu (Tam.)|PesaraPappu (Tel.)|U dai stem (Kh.)|Vigna radiata (Sci.)"
+N001,"Chicken, poultry (Common)"
+N002,"Chicken, poultry (Common)"
+N003,"Chicken, poultry (Common)"
+N004,"Chicken, poultry (Common)"
+N005,"Chicken, poultry (Common)"
+N006,"Chicken, poultry (Common)"
+F013,"Chilagada dumpa (Tel.)|Genasu (Kan.)|Kandamula (O.)|Manghra (M.)|Meetha aloo (A.)|Phankaro iong (Kh.)|Ranga alu (B.)|Ratalu (Mar.,U.)|Sakhar Khand (N.)|Sakkargandi (P.)|Sakkaria (G.)|Sakkarvalli kazhangu (Mal., Tam.)|Shakarkand (H.)|Sweet potato, brown skin (Common)"
+F014,"Chilagada dumpa (Tel.)|Genasu (Kan.)|Kandamula (O.)|Manghra (M.)|Meetha aloo (A.)|Phankaro saw (Kh.)|Ranga alu (B.)|Ratalu (Mar.,U.)|Sakhar Khand (N.)|Sakkargandi (P.)|Sakkaria (G.)|Sakkarvalli kazhangu (Mal., Tam.)|Shakarkand (H.)|Sweet potato, pink skin (Common)"
+H017,"Chilgoza (G.,H.,Kash.)|Pine seed (Common)|Pinus sp. (Sci.)|Rhi (P.)|Symbai soh kseh (Kh.)"
+A012,"Chirmure (Mar.)|Kabok Mur (M.)|Kalle Puri (Kan.)|Mamra (G.)|Maramaralu (Tel.)|Mudhi (O.)|Murai (N.)|Muramure (H.)|Muri (A.,B.,Kh.)|Murmure (U.)|Oryza sativa (Sci.)|Phulian (P.)|Pori (Mal.,Tam.)|Rice, puffed (Common)|Tomul (Kash.)"
+P086,Chirocentrus nudus (Sci.)|Valava (Common)
+A005,Cholam (Tam.)|Krai (Kh.)|Pingu (Kash.)|Sorghum vulgare (Sci.)
+D042,"Chujaak (M.)|Corn, Baby (Common)|Makai (G.,Kash.,N.,U.)|Riewhadem Lung (Kh.)|Shoti shalli (P.)|Zea mays (Sci.)"
+E047,"Citrus aurantium (Sci.)|Kamala (O.)|Kamala padu (Tel.)|KamalaLebu (B.)|Kithilai (Kan.)|Komla (M.)|Komola (A.)|Madhura naranga (Mal.)|Naarangga (S.)|Orange, pulp (Common)|Saathukudi (Tam.)|Sangtar (Kash.)|Santra (G.,h.,p.,u.)|Santre (Mar.)|Soh niamtra (Kh.)|Suntala (N.)"
+E034,"Citrus limetta (Sci.)|Gaja nimbe (Kan.)|Gaja nimma pandu (Tel.)|Kolinchi pazham (Tam.)|Limbu goḍa ( Mar)|Lime, sweet pulp (Common)|Mitha lebu (B.)|Mosambi (G.,H.,Kash.)|Mosami (P.)|Mosumi (A.)|Soh balensha (Kh.)"
+R001,"Clam, green shell (Common)|Perna viridis (Sci.)"
+R002,"Clam, white shell, ribbed (Common)|Meretrix meretrix (Sci.)"
+G023,"Cloves (Common)|Krambu (Mal.,Tam.)|Labang (O.)|Lavang (G.)|Lavang (H.)|Lavang (Mar.)|Lavanga (Kan.,S.)|Lavangu (Tel.)|Lobong (B.)|Long (A.,M.,P.,U.)|Luwang (N.)|Ruang (Kash.)|Syzygium aromaticum (Sci.)|U long (Kh.)"
+D039,Cluster beans (Common)|Cyamopsis tetragonobola (Sci.)|Gaur -ki-phalli (H.)|Gavar ki palli (U.)|Gori koyi (Kan.)|Goruchikkudu (Tel.)|Govar (G.)|Govari (Mar.)|Guanra chhuin (O.)|Guarae -di-faliya (P.)|Kothavara (Mal.)|Kothavaranga (Tam.)|Mah (A.)
+D054,"Coccinia cordifolia (Sci.)|Donda kaya (Tel.)|Ghole gluru (G.)|Konduri (H.)|Kova kai (Mal.,Tam.)|Kovai, big (Common)|Kunduli (A.)|Kunduru (O.)|Telakucha (B.)|Tindli (U.)|Tondale (Mar.)|Tondekayi (Kan.)"
+D055,"Coccinia cordifolia (Sci.)|Donda kaya (Tel.)|Ghole gluru (G.)|Konduri (H.)|Kova kai (Mal.,Tam.)|Kovai, small (Common)|Kunduli (A.)|Kunduru (O.)|Telakucha (B.)|Tindli (U.)|Tondale (Mar.)|Tondekayi (Kan.)"
+K002,Coconut water (Common)|Dab narikolor pani (A.)|Daberjal (B.)|Kobbari neeru (Tel.)|Naral pani (Mar.)|Nariyad nu pani (G.)|Nariyal da pani (P.)|Nariyal ka pani (H.)|Narji pooen (Kash.)|Nungsihidak (M.)|Paida Pani (O.)|Thenga neeru (Kan.)|Thengavellam (Mal.)|Um snepkor (Kh.)
+H006,"Coconut, kernel, dry (Common)|Cocos nucifera (Sci.)|Dab narikol (A.)|Endu Kobbari (Tel.)|Gola (P.)|Khopra (U.)|Kopparai (Tam.)|Kopra ni kachli (G.)|Nadia (O.)|Narel (Mar.)|Nariyal (H.,P.)|Narjil (Kash.)|Narkel (B.)|Snep kor trykhong (Kh.)|Thenga (Mal.)|Thengini kai (Kan.)|Yubi Akangba (M.)"
+H007,"Coconut, kernel, fresh (Common)|Cocos nucifera (Sci.)|Karikku (Mal.)|Kobbari (Tel.)|Naarikela (S.)|Narel (Mar.)|Naribel (N.)|Narikol (A.)|Nariyad (G.)|Nariyal (H.)|Nariyal (H.,P.)|Nariyel (U.)|Narjeel (Kash.)|Narkel (B.)|Paida (O.)|Snep kor im (Kh.)|Thengina kayi (Kan.)|Thenkai (Tam.)|Yubi (M.)"
+G024,"Coriander seeds (Common)|Coriandrum sativum (Sci.)|Daaniwal (Kash.)|Dhane (Mar.)|Dhania (H.,N.,O.,P.)|Dhaniya (U.)|Dhaniyalu (Tel.)|Dhanyaka (S.)|Dhone (B.)|Dhoniya (A.)|Fadhighom Maru (M.)|Kothamalli vidhai (Tam.)|Kothambalari (Kan.,Mal.)|Sukha dhana (G.)|Symbai dhania (Kh.)"
+G009,"Coriander, leaves (Common)|Coriandrum sativum (Sci.)|Daaniwal (Kash.)|Dhana pandada (G.)|Dhania paat (A.)|Dhania Patra (O.)|Dhone pata (B.)|Dhonia dkhar (Kh.)|Fadhighom Mana (M.)|Kothamalli (Mal.,Tam.)|Kothambalari (Kan.,Mal.)|Kothimbir (Mar.)|Kothimiri (Tel.)"
+P053,Coryphaena hippurus (Sci.)|Phopat (Common)
+N007,Country hen (Common)
+N008,Country hen (Common)
+N009,Country hen (Common)
+N010,Country hen (Common)
+Q001,Crab (Common)|Menippe mercenaria (Sci.)
+S007,Crab (Common)|Pachygrapsus sp. (Sci.)
+Q002,"Crab, sea (Common)|Portunus sanguinolentus (Sci.)"
+Q006,Crassostrea sp. (Sci.)|Oyster (Common)
+D043,"Cucumber green, elongated (Common)|Cucumis sativus (Sci.)|Dosa kaya (Tel.)|Kakadi (H.,Mar.)|Kakdi (G.)|Kakro (N.)|Kakudi (O.)|kheera (H.,U.)|Khira (P.)|Laar (Kash.)|Patolah (S.)|Sohkhia (Kh.)|Sosha (B.)|Southe kayi (Kan.)|Thabi (M.)|Tiyoh (A.)|Vellarikka (Mal.,Tam.)"
+D044,"Cucumber green, short (Common)|Cucumis sativus (Sci.)|Dosa kaya (Tel.)|Kakadi (H.,Mar.)|Kakdi (G.)|Kakro (N.)|Kakudi (O.)|kheera (H.,U.)|Khira (P.)|Laar (Kash.)|Patolah (S.)|Sohkhia (Kh.)|Sosha (B.)|Southe kayi (Kan.)|Thabi (M.)|Tiyoh (A.)|Vellarikka (Mal.,Tam.)"
+D045,"Cucumber orange, round (Common)|Cucumis sativus (Sci.)|Dosa kaya (Tel.)|Kakadi (H.,Mar.)|Kakdi (G.)|Kakro (N.)|Kakudi (O.)|kheera (H.,U.)|Laar (Kash.)|Patolah (S.)|Sohkhia pyllon (Kh.)|Sosha (B.)|Southe kayi (Kan.)|Tiyoh (A.)|Vellarikka (Mal.,Tam.)"
+E046,"Cucumis melo (Sci.)|Kharamuja (B.)|Kharbooja (H.,Kan., Mar., O.,P.,Tel.)|Kharbujo/Pido (G.)|Kharbuuja (S.)|Kharbuz (U.)|Kherbuz (Kash.)|Mulam pazham (Mal.,Tam.)|Musk melon, yellow flesh (Common)|Siral (A.)"
+E045,"Cucumis melon (Sci.)|Kharamuja (B.)|Kharbooja (H.)|Kharbooja (H.,Kan., Mar., O.,P.,Tel.)|Kharbujo (G.)|Kharbuuja (S.)|Kharbuz (U.)|Kherbuz (Kash.)|Mulam pazham (Mal.,Tam.)|Musk melon, orange flesh (Common)"
+D065,"Cucurbita maxima (Sci.)|Farsi (N.)|Gummad kaya (Tel.)|Kaddu (H.,P.,U.)|Kakharu (O.)|Kohlu (G.)|Kumbala kash (Kan.)|Kummaandah (S.)|Kumro (B.)|Lal bhopla (Mar.)|Mairen (M.)|Mathan (Mal.)|Paarimal (Kash.)|Parangikkai (Tam.)|Pathaw (Kh.)|Pumpkin green, cylindrical (Common)|Rongalao (A.)"
+D066,"Cucurbita maxima (Sci.)|Farsi (N.)|Gummadi (Tel.)|Kaddu (H.,P.,U.)|Kakharu (O.)|Kohlu (G.)|Kumbala kash (Kan.)|Kummaandah (S.)|Kumro (B.)|Lal bhopla (Mar.)|Mairen (M.)|Mathan (Mal.)|Paarimal (Kash.)|Parangikkai (Tam.)|Pathaw saw (Kh.)|Pumpkin orange, round (Common)|Rongalao (A.)"
+D077,Cucurbita pepo (Sci.)|Dhudul (B.)|Dilpasand (Kan.)|Golu phubi kakuri (O.)|Kaashiral (Kash.)|Kashi bhopla (Mar.)|Sabed kaddu (H.)|Seemai suraikayi (Tam.)|Zucchini green (Common)
+D078,"Cucurbita pepo (Sci.)|Dhudul (B.)|Dilpasand (Kan.)|Golu phubi kakuri (O.)|Kaashiral (Kash.)|Kashi bhopla (Mar.)|Sabed kaddu (H.)|Seemai suraikayi (Tam.)|Zucchini, yellow (Common)"
+G025,Cumin seeds (Common)|Cuminum cyminum (Sci.)|U jeera (Kh.)|Zyur (Kash.)
+E015,"Currants, black (Common)|Kadi draksh (G.)|Kala kishmish (U.)|Kala pravaha (Mar.)|Karunthiratcha (Tam.)|Kismis (A.,M.,N.)|Munakka (H.)|Najavalppazham (Mal.)|Nalla Kishmish (Tel.)|NeraleHannu (Kan.)|Ribes nigrum (Sci.)|Soh kismis iong (Kh.)"
+P079,Cynoglossus arel (Sci.)|Sole fish (Common)
+P080,Dasyatis pastinaca (Sci.)|Stingray (Common)
+E019,"Dates, processed (Common)|Eethapazham (Mal.)|Khajoora pandu (Tel.)|Khajur (A.,G.,H., Kash., Mar.,P.,U.)|Khajura (N.)|Khajuri (O.)|Kharjoora (Kan.)|Kharjura (S.)|Kharjura (B.,S.)|Pericham pazham (Tam.)|Phoenix dactylifera (Sci.)|Soh khajur im (Kh.)|Thangtup (M.)"
+D073,"Dhemase (Mar.)|Praecitrullus fistulosus (Sci.)|Tadabuch (G.)|Thondekkai (Kan.)|Tinda (H.,Kash., N.,P.)|Tinda, tender (Common)|Tinde (U.)"
+C031,"Dherua (A.)|Mooji hakh (Kash.)|Moolaa ko saag (N.)|Muda na pan (G.)|Mula ka sag (Mar.,O.)|Muli di patte (P.)|Muli ka patta (U.)|Muli ka sag (H.)|Mullangi akulu (Tel.)|Mullangi ilai (Tam.)|Mullangi ilaigal (Mal.)|Mullangi soppu (Kan.)|Mulo shak (B.)|Radish leaves (Common)|Raphanus sativus (Sci.)|Sla muli (Kh.)"
+B013,"Dhooli masari dal (P.)|Khesari paruppu (Tam.)|Laki Bele (Kan.)|Lank dal (Mar.)|Lanka pappu (Tel.)|Lens culinaris (Sci.)|Lentil, dal (Common)|Masoor (Kash.)|Masoor dal (H.)|Masoor ni daad (G.)|Masur dail (A.)|Masura dali (O.)|Mosur dal (B.)|Triputta (S.)|U dai saw (Kh.)|Vattu parippu (Mal.)"
+D046,Dieng sajana (Kh.)|Drumstick (Common)|Moringa oleifera (Sci.)|Mulakaada (Tel.)|Muringakkai (Mal.)|Murungakkai (Tam.)|Nugga kayi (Kan.)|Saijan -ki-phalli (H.)|Sajana (M.)|Sajana chhuin (O.)|Sajina (A.)|Sajna danta (B.)|Saragavo (G.)|Shevanga sheng (Mar.)|Suhanjana di phalliya (P.)|Sujne ki palli (U.)
+E057,"Drashi (Kan.)|Endu draksha (Tel.)|Kadi draksha (G.)|Kishmish (A.,B.,H., Kash., Mar.,O.,U.)|Kismis (A.,M.,N.)|Kismisiong (Kh.)|Mundiringa/unakku (Mal.)|Raisins, dried, black (Common)|Songi (P.)|Ular dhirachai (Tam.)|Vitis vinifera (Sci.)"
+E058,"Drashi (Kan.)|Endu draksha (Tel.)|Kishmish (A.,B.,H., Kash., Mar.,O.,U.)|Kismis (M.)|Kismis saw (Kh.)|Mundiringa/unakku (Mal.)|Pidi Draksha (G.)|Raisins, dried, golden (Common)|Songi (P.)|Suke dhrakshi (Kon.)|Ular dhirachai (Tam.)|Vitis vinifera (Sci.)"
+P081,Drepane punctata (Sci.)|Tarlava (Common)
+C019,"Drumstick, leaves (Common)|Moringa oleifera (Sci.)|Mulaga akulu (Tel.)|Muringa ela (Mal.)|Murungai keerai (Tam.)|Nuggeyele (Kan.)|Saijan patta (H.)|Sajana mana (M.)|Sajina paat (A.)|Sajna pata (B.)|Sajna sag (O.)|Saragwa na pan (G.)|Shevaga pan (Mar.)|Soanjhna da patta (P.)|Sujine ki palli (U.)"
+N011,Duck (Common)
+M008,"Egg, country hen (Common)"
+M009,"Egg, country hen (Common)"
+M010,"Egg, country hen (Common)"
+M011,"Egg, duck (Common)"
+M012,"Egg, duck (Common)"
+M013,"Egg, duck (Common)"
+M001,"Egg, poultry (Common)"
+M002,"Egg, poultry (Common)"
+M003,"Egg, poultry (Common)"
+M004,"Egg, poultry (Common)"
+M005,"Egg, poultry (Common)"
+M006,"Egg, poultry (Common)"
+M007,"Egg, poultry (Common)"
+M014,"Egg, quial (Common)"
+M015,"Egg, quial (Common)"
+P092,"Eggs, Cat fish (Common)|Ompok bimaculatus (Sci.)"
+F016,"Eleocharis dulcis (Sci.)|Goer (Kash.)|Kaothum (M.)|Karimpolam (Mal.)|Kubyakam (Tel.)|Pani phal (B.)|Pani singhara (O.)|Pani singora (A.)|Shingada (P.)|Shingara (H., Mar)|Shingoda (G.)|Singhara (Tam.)|Water chestnut (Common)"
+N012,Emu (Common)
+P062,Epinephelus chlorostigma (Sci.)|Raai vanthu (Common)
+P023,Epinephelus coioides (Sci.)|Kalava (Common)
+P015,Epinephelus diacanthus (Sci.)|Gobro (Common)
+P042,Epinephelus sp. (Sci.)|Nalla bontha (Common)
+P014,Eri meen (Common)|Pristipomoides filamentosus (Sci.)
+P026,Etroplus suratensis (Sci.)|Karimeen (Common)
+P084,Euthynnus affinis (Sci.)|Tuna (Common)
+E052,"Falsa (B.,G.,H.,Mar.,P.,U.)|Falsa pandu (Tel.)|Grewia asiatica (Sci.)|Kanthal (B.)|Mirgichara (O.)|Palisa (Mal.,Tam.)|Phalsa (Common)|Phalsa hannu (Kan.)|Pharaskol (A.)|Soh broi rit (Kh.)"
+C020,"Fenugreek leaves (Common)|Kasori Methi (Kash.)|Menthikoora (Tel.)|Menthya soppu (Kan.)|Methi (A.,B.,H., M.,N.,O.,P.,U.)|Methi di patte (P.)|Methi man (M.)|Methi paat (A.)|Methi pandada (G.)|Methi pata (N.)|Methi sag (H.,Mar.,O.)|Methi shak (B.)|Sla methi (Kh.)|Trigonella foenum graecum (Sci.)|Uluva ila (Mal.)|Vendhaiya keerai (Tam.)"
+G026,"Fenugreek seeds (Common)|Meeth (Kash.)|Menthe (Kan.)|Menthulu (Tel.)|Methe (S.)|Methi (A.,B.,H., M.,N.,O.,P.,U.)|Methi dana (G.)|Symbai methi (Kh.)|Trigonella foenum graecum (Sci.)|Uluva (Mal.)|Venthayam (Tam.)"
+E063,"Fragaria ananassa (Sci.)|Lachi (P.)|Nela milli hannu (Kan.)|Strawberry (Common)|Strawberry (G.,Tam.)|Strawberry soh stap (Kh.)|Stroberry (Mal.)"
+A020,"Gahama (O.)|Gau (N.)|Gehu (Mar.)|Gehun (H.,U.)|Ghaun (G.)|Ghehu (A.,M.)|Godhi (Kan.)|Godhum (S.)|Godhumalu (Tel.)|Godhumbu (Mal.)|Godumai (Tam.)|Gom (B.)|Kanaka (P.)|Kinek (Kash.)|Triticum aestivum (Sci.)|Ukew (Kh.)|Wheat, whole (Common)"
+A022,"Gahu rava (Mar.)|Gehun suji (H.)|Ghaum soji (G.)|Godhi rave (Kan.)|Godhuma rava (Tel.)|Godumai ravai (Tam.)|Sooj (Kash.)|Suji (A.,b.,Kh.,M., N.,O.,P.)|Triticum aestivum (Sci.)|Uppumavu (Mal.)|Wheat, semolina (Common)"
+P090,Galeocerdo cuvier (Sci.)|Whale shark (Common)
+E043,Garcinia mangostana (Sci.)|Mangosteen (Common)|Mangustan (H.)|Sulambali (Tam.)
+P058,Gerres sp. (Sci.)|Pranel (Common)
+A023,"Ghaun ni sev (G.)|Semai (B.)|Semiya (Mal., Tam., Tel., U.)|Sevian (P.)|Sewai (A.)|Sewai lieh (Kh.)|Sewian (Kash.)|Shevige (Kan.)|Simai (O.)|Siwain (H.)|Siwain (Mar.)|Triticum aestivum (Sci.)|Wheat, vermicelli (Common)"
+P059,Gnathanodon speciosus (Sci.)|Pulli paarai (Common)
+O001,Goat (Common)
+O002,Goat (Common)
+O003,Goat (Common)
+O004,Goat (Common)
+O005,Goat (Common)
+O006,Goat (Common)
+O007,Goat (Common)
+O008,Goat (Common)
+O009,Goat (Common)
+O010,Goat (Common)
+O011,Goat (Common)
+O012,Goat (Common)
+O013,Goat (Common)
+G031,"Golmarichi (B.)|Golomarcho (O.)|Kaali Mirch (U.)|Kalimirchi (H.,P.)|Kari menasu (Kan.)|Kola jaluk (A.)|Kurumlaku (Mal.)|Mari (G.)|Marich (N.)|Marich ushna,Hapusha (S.)|Marutus (Kash.)|Milagu (Tam.)|Mirayalu (Tel.)|Mire (Mar.)|Pepper, black (Common)|Piper nigrum (Sci.)|Soh marit (Kh.)"
+F009,"Gonglu (P.)|Mooli (U.)|Moolikaa (S.)|Muda (G.)|Mula (A.,B.,Mar.,N.,O)|Muli (H.)|Muli saw (Kh.)|Mullangi (Kan., Mal.,Tam.,Tel.)|Radish, elongated, red skin (Common)|Raphanus sativus (Sci.)"
+F010,"Gonglu (P.)|Mooli (U.)|Moolikaa (S.)|Muda (G.)|Mula (A.,B.,Mar.,N.,O)|Muli (H.)|Muli lieh (Kh.)|Mullangi (Kan., Mal.,Tam.,Tel.)|Radish, elongated, white skin (Common)|Raphanus sativus (Sci.)"
+F011,"Gonglu (P.)|Mooli (U.)|Moolikaa (S.)|Muda (G.)|Mula (A.,B.,Mar.,N.,O)|Muli (H.)|Muli pyllon (Kh.)|Mullangi (Kan., Mal.,Tam.,Tel.)|Radish, round, red skin (Common)|Raphanus sativus (Sci.)"
+F012,"Gonglu (P.)|Mooli (U.)|Moolikaa (S.)|Muda (G.)|Mula (A.,B.,Mar.,N.,O)|Muli (H.)|Muli pyllon (Kh.)|Mullangi (Kan., Mal.,Tam.,Tel.)|Radish, round, white skin (Common)|Raphanus sativus (Sci.)"
+B014,"Gota masur mah (A.)|Lens culinaris (Sci.)|Lentil whole, brown (Common)|Masoor (Kash.)|Masoor/Kathai (G.)|Masur bele (Kan.)|Masur dal (H.,Mar.,U.)|Masur parippu (Mal.)|Masura (O.,S.)|Misur pappu (Tel.)|Mosur (B.)|Musuroo (N.)|Mysore paruppu (Tam.)|Saboot masari dal (P.)"
+N013,Guinea fowl (Common)
+P016,Guitar fish (Common)|Rhinobatus prahli (Sci.)
+O058,Hare (Common)
+O059,Hare (Common)
+O060,Hare (Common)
+P017,Hilsa (Common)|Tenualosa ilisha (Sci.)
+P078,Hypophthalmichthys molitrix (Sci.)|Silver carp (Common)
+P041,Istiophorus platypterus (Sci.)|Myil meen (Common)
+P019,Jathi vela meen (Common)|Lethrinus lentjan (Sci.)
+J008,Kaarabellam (S.)
+J009,Kaarabellam (S.)
+P020,Kadal bral (Common)|Synodus indicus (Sci.)
+P021,Kadali (Common)|Nemipterus mesoprion (Sci.)
+P022,Kalamaara (Common)|Leptomelanosoma indicum (Sci.)
+K001,"Kallu (Tam., Tel., Mal.)|KiadLieh (Kh.)|Tadi (Mar.,O.,G.)|Tarai (H.)|Tari (A.,B.)|Toddy (Common)|Todhi (P.)"
+F005,Kamad kakdi (G.)|Kamal zahr (P.)|Kamalgatta (H.)|Kamalkaakdi (Mar.)|Kanwal kakri (U.)|Lotus root (Common)|Nader (Kash.)|Nelumbium nelumbo (Sci.)|Padma nad (O.)|Podum thari (A.)|Tavaredantu (Kan.)|Thamara kada (Tel.)|Thamaraithandu (Tam.)|Thamarathandu (Mal.)|Thambou (M.)|Thiedlotus (Kh.)
+P024,Kanamayya (Common)|Lutjanus rivulatus (Sci.)
+G030,Kandan lippili (Kan.)|Khus khus (G.)|Piper longum (Sci.)|Pipli (H.)|Pippali (Common)|Pipul (B.)|Sohmarit khlaw (Kh.)
+A017,Kangni (P.)|Karralu (Tel.)|Konidhan (A.)|Priyangu thene (Kan.)|Ral gana (G.)|Rala (Mar.)|Setaria italica (Sci.)|Snol (Kash.)|Syama dhan (B.)|Thina (Mal.)|Thinai (Tam.)|Varagu (Common)
+P085,"Katsuwonus pelamis (Sci.)|Tuna, striped (Common)"
+C025,Kavu akulu (Tel.)|Kismisaag (U.)|Lactuca sativa (Sci.)|Lettuce (Common)|Lettuce cheera (Mal.)|Lettuce ka patta (Mar.)|Lettuce na pan (G.)|Lettuce soppu (Kan.)|Saalad ko paat (N.)|Salad ka patta (H.)|Salad paat (A.)|Salada sag (P.)|Salat dkhar (Kh.)
+P028,Kayrai (Common)|Thunnus albacores (Sci.)
+P030,Kite fish (Common)|Mobula kuhlii (Sci.)
+D060,"Kommu potla (Tel.)|kovakkai (Mal.)|Mara Thonde (Kan.)|Padval (G.)|Parwal (H.,P.,U.)|Parwar (Common,Mar.)|Patol rit (Kh.)|Potala (O.)|Potol (A.,B.)|Trichosanthes dioica (Sci.)"
+P031,Korka (Common)|Terapon jarbua (Sci.)
+S006,Labeo rohita (Sci.)|Rohu (Common)
+P049,Lactarius lactarius (Sci.)|Parava (Common)
+B015,"Lentil whole, yellowish (Common)|Masoor (Kash.)|Masoor rakhoda (G.)|Masur bele (Kan.)|Masur dal (H.,Mar.,U.)|Masur parippu (Mal.)|Masura (O.,S.)|Masura Musuroo (S.)|Misur pappu (Tel.)|Mosur (B.)|Mosur/Dail (A.)|Mysore paruppu (Tam.)|Saboot masari dal (P.)|U dai saw (Kh.)"
+P047,Lepturacanthus savala (Sci.)|Pambada (Common)
+E035,"Letchu (O.)|Lichi (G.,H.,Kan.,Kash., Mal., Mar.,N.,P.,Tam.,Tel.,U.)|Lichu (A.,B.,M.)|Litchi (Common)|Litchi chinensis (Sci.)|Soh manir (Kh.)"
+P061,Lobotes surinamensis (Sci.)|Raai fish (Common)
+Q003,"Lobster, brown (Common)|Thenus orientalis (Sci.)"
+Q004,"Lobster, king size (Common)|Thenus orientalis (Sci.)"
+R006,"Loligo duvaucelii (Sci.)|Squid, red (Common)"
+R004,"Loligo sp. (Sci.)|Squid, black (Common)"
+P065,Lutjanus argentimaculatus (Sci.)|Red snapper (Common)
+P033,Maagaa (Common)|Polynemus plebeius (Sci.)
+P034,Mackerel (Common)|Rastrelliger kanagurta (Sci.)
+S008,"Macrobrachium rosenbergii (Sci.)|Prawns, big (Common)"
+S009,"Macrobrachium sp. (Sci.)|Prawns, small (Common)"
+S010,Macrobrachium sp. (Sci.)|Tiger prawns (Common)
+A018,"Maida (B.,H.,Kan.,Mar.,N.,O.,P.,U.)|Maida mavu (Mal.,Tam.)|Maida pindi (Tel.)|Maido (G.)|Moida (A.,Kh.,M.)|Oat (Kash.)|Triticum aestivum (Sci.)|Wheat, flour, refined (Common)"
+P035,Manda clathi (Common)|Naso reticulatus (Sci.)
+P038,Mene maculata (Sci.)|Moon fish (Common)
+O045,Mithun (Common)
+O046,Mithun (Common)
+O047,Mithun (Common)
+Q005,Mud crab (Common)|Scylla tranquebarica (Sci.)
+P039,Mugil cephalus (Sci.)|Mullet (Common)
+P040,Mural (Common)|Tylosurus crocodilus crocodilus (Sci.)
+G028,Myristica fragrans (Sci.)|Nutmeg (Common)|Zaaphal (Kash.)
+E031,Nagapazham (Tam.)|Naval pazham (Mal.)|Neralai (Kan.)|Neredupandu (Tel.)|Syzygium samarangense (Sci.)
+P069,Nemipterus japanicus (Sci.)|Sangada (Common)
+E059,"Nephelium lappaceum (Sci.)|Rambutan (Common,H.)"
+R003,Octopus (Common)|Octopus vulgaris (Sci.)
+P083,Oreochromis niloticus (Sci.)|Tilapia (Common)
+P046,"Pali kora (Common)|Sciaenidae,Panna microdon (Sci.)"
+P057,"Pampus argenteus (Sci.)|Pomfret, white (Common)"
+P048,Pandukopa (Common)|Pseudosciaena manchurica (Sci.)
+S005,Pangas (Common)|Pangasianodon hypophthalmus (Sci.)
+P055,"Parastromateus niger (Sci.)|Pomfret, black (Common)"
+P050,Parcus (Common)|Psettodes erumei (Sci.)
+P051,Parrot fish (Common)|Scarus ghobban (Sci.)
+Q008,"Penaeus monodon (Sci.)|Tiger Prawns, orange (Common)"
+P052,Perinkilichai (Common)|Pinjalo pinjalo (Sci.)
+H018,"Pesta (B.)|Pista (A.,G.,H.,Kh., Mal.,Mar., N.,O.,P.,Tam.,Tel.,U.)|Pistachio nut (Common)|Pistacia vera (Sci.)"
+N014,Pigeon (Common)
+P063,Pink perch (Sci.)|Rani (Common)
+P054,Piranha (Common)|Pygopritis sp. (Sci.)
+P067,Platax orbicularis (Sci.)|Sadaya (Common)
+P082,Plectorhinchus schotaf (Sci.)|Tholam (Common)
+P056,"Pomfret, snub nose (Common)|Trachinotus blochii (Sci.)"
+O048,Pork (Common)
+O049,Pork (Common)
+O050,Pork (Common)
+O051,Pork (Common)
+O052,Pork (Common)
+O053,Pork (Common)
+O054,Pork (Common)
+O055,Pork (Common)
+O056,Pork (Common)
+O057,Pork (Common)
+P066,"Priacanthus hamrur (Sci.)|Red snapper, small (Common)"
+N015,Quail (Common)
+P060,Queen fish (Common)|Scomberoides Commersonianus (Sci.)
+O061,Rabbit (Common)
+O062,Rabbit (Common)
+O063,Rabbit (Common)
+P064,"Ray fish, bow head, spotted (Common)|Rhina ancylostoma (Sci.)"
+P068,Salmo salar (Sci.)|Salmon (Common)
+P071,Sardine (Common)|Sardinella longiceps (Sci.)
+P087,Scomberomorus commerson (Sci.)|Vanjaram (Common)
+R005,"Sepia pharaonis (Sci.)|Squid, hard shell (Common)"
+P073,"Shark, hammer head (Common)|Sphyrna mokarran (Sci.)"
+P074,"Shark, spotted (Common)|Stegostoma fasciatum (Sci.)"
+O014,Sheep (Common)
+O015,Sheep (Common)
+O016,Sheep (Common)
+O017,Sheep (Common)
+O018,Sheep (Common)
+O019,Sheep (Common)
+O020,Sheep (Common)
+O021,Sheep (Common)
+O022,Sheep (Common)
+O023,Sheep (Common)
+O024,Sheep (Common)
+P075,Shelavu (Common)|Sphyraena jello (Sci.)
+P089,Siganus javus (Sci.)|Vora (Common)
+P076,Silan (Common)|Silonia silondia (Sci.)
+Q007,"Solenocera crassicornis (Sci.)|Tiger prawns, brown (Common)"
+R007,"Squid, white, small (Common)|Uroteuthis duvauceli (Sci.)"
+N016,Turkey (Common)
+N017,Turkey (Common)
+N018,Turkey (Common)
+N019,Turkey (Common)
+P091,Xiphias gladius (Sci.)|Xiphinis (Common)
